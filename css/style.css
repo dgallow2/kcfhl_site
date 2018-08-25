@@ -1,0 +1,382 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+
+/* Resetting the css to reduce issues across browsers or for old browsers taken from https://meyerweb.com/eric/tools/css/reset/ */
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* My CSS for the site starts here */
+
+body {
+    
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 0;
+    background: #D1CFCF;
+    height: auto;
+}
+
+h1 {
+    
+    font-weight: 400;
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    margin: 0;
+    
+}
+
+h2 {
+    
+    font-weight: 400;
+    font-size: 1.2rem;
+    text-transform: capitalize;
+    margin: 0;
+    
+}
+
+img {
+    
+    display: block;
+    width: 100%;
+    
+}
+
+main {
+    
+    max-width: 900px;
+    margin: auto;
+    box-shadow: 30px 0px 40px rgba(0,0,0,0.1),-30px 0px 40px rgba(0,0,0,0.1);  
+        
+}
+
+.wrapper {
+    
+    margin-right:auto;
+    margin-left: auto;
+    max-width: 960px;
+    padding-right: 10px;
+    padding-left: 10px;
+    background: #D1CFCF;
+
+    
+}
+
+/* Nav bar styling */
+
+.nav-container {
+    
+    width:100%;
+    
+}
+
+nav {
+    
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+    padding-top:1rem;
+    padding-bottom: 1rem;
+    
+}
+
+.icon {
+    
+    margin:0;
+    padding:0;
+    
+}
+
+.left-menu {
+    
+    grid-column: 1;
+    margin: 0;
+    padding-top: 12px;
+    padding-left: 35px;
+    
+}
+
+#left-menu-links {
+    
+    display:none;
+    clear:both;
+    
+}
+
+.menu-link:hover {
+    
+    color: green;
+    transition: 0.7s;
+    
+    
+}
+
+.left-menu li {
+    
+    margin: 0;
+    padding: 0;
+    display:inline-block;
+
+    
+}
+
+
+.logo {
+    
+    grid-column: 2;
+    font-size: 2.3rem;
+    
+}
+
+.logo, a {
+    
+    text-decoration: none;
+    color: black;
+    
+}
+
+.logo, img {
+    
+    float:right;
+    padding-left: 0.3rem;
+    height:2.5rem;
+    width:auto;
+    
+}
+
+/* Head of the page where the page title goes */
+
+main {
+    
+    border-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+#landing {
+    
+    background: #fff;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+
+}
+
+#landing-text {
+    
+    display: flex;
+    flex: auto;
+    height: 10vh;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding:1.5rem;
+    
+}
+
+#landing-text h2 {
+    
+    color: #888;
+    
+}
+
+/* Teams general styling */
+
+#teams {
+    
+    background-color: #E8E8E8;
+    border-radius: 20px;
+    
+}
+
+.teamsTitle {
+    
+    margin: auto;
+    width: 100%;
+    padding:1rem;
+    
+    background: #333;
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.5rem;
+    font-family: 'Roboto Condensed', sans-serif; 
+    
+    
+}
+
+.teamsTitle, button {
+    
+    cursor: pointer;
+    border: none;
+    outline: none;
+    transition: 0.4s;
+
+}
+
+.teamsTitle:hover {
+    
+    color:#333;
+    background: gold;
+    
+}
+
+.teamsContent h2 {
+    
+    text-align: center;
+    font-size: 1.2rem;
+    padding-top: 1.5rem;
+    padding-bottom: 2rem;
+    text-decoration: underline;
+        
+        
+}
+
+.teamsContent ul {
+    
+    width: 100%;
+    text-align: center;
+    
+}
+
+/* this creates the a pseudo element below each ul and adds the border. Found the solution here: https://www.steckinsights.com/shorten-length-border-bottom-pure-css/ */
+.teamsContent ul:after {
+    
+    content: "";
+    display:block;
+    margin: 0 auto;
+    width: 80%;
+    padding: 0;
+    border-bottom: 1px solid #7C8292;
+    
+}
+
+.teamsContent li {
+    
+    display: inline-block;
+    padding-bottom:0.5rem;
+    padding-top: 0.5rem;
+    margin: 0;
+    width:32%;
+    text-align: center;
+    
+}
+
+/* team section specific styling. Broken up by positions or type of asset */
+
+
+
+/* footer content for mobile */
+
+
+footer {
+    
+    text-align: center;
+    padding:  2rem 1rem;
+    margin:auto;
+    color: #333;
+    
+    
+}
+
+footer h3 {
+    
+    font-size: 3rem;
+    margin-bottom: 0;
+    
+}
+
+/* Screen sizes 500px and up */
+
+
+@media(min-width:500px){
+    
+    #landing {
+        
+        display: flex;
+        height: 100%;
+        width: 100%;
+        
+    }
+    
+    #landing-text {
+        
+        height: 10vh;
+        width: 100%;
+        
+    }
+    
+}
+
+/* Screens sizes 700px and up */
+
+@media(min-width:910px) {
+    
+    nav {
+        
+        max-width: 1720px;
+    }
+    
+    #left-menu-links {
+        
+        display: inline-block !important;
+        clear:both;
+        
+    }
+    
+    #left-menu-links li {
+        
+        padding-right: 10px;
+        padding-left: 5px;
+        font-size: 1.1rem;
+        border-right: 1px solid #333;
+        
+    }
+    
+    
+    .icon {
+        
+        display: none;
+        
+    }
+    
+}
+

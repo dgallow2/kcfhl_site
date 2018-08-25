@@ -1,47 +1,389 @@
-<!doctype html>
-
-<html>
-
+<!DOCTYPE html>
+<html lang="en">
 <head>
-        
-    <title>Official Keeper Cup Fantasy League</title>
+    <meta charset="UTF-8">
+    <title>Keeper Cup Fantasy Hockey League</title>
     
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    
-    <link rel="stylesheet" type = "text/css" href="nav.css">
-        
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie-edge">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
-    
 <body>
-        <!-- Nav Bar -->
-        <div id="nav">
+   
+   <div class="wrapper">
+   
+   <div class="nav-container">
+      
+      <nav>
+         
+          <div class="left-menu">
+              <ul>
+              
+              <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+              
+                <i class="fa fa-bars"></i>
+                
+                 </a>
+                 
+                 <div id="left-menu-links">
+                 
+                  <li><a href="#" class="menu-link">Home</a></li>
+                  <li><a href="#" class="menu-link">Trade Centre</a></li>
+                  <li><a href="#" class="menu-link">Standings</a></li>
+                  <li><a href="#" class="menu-link">Rules</a></li>
+                  
+                  </div>
+              </ul>
+              
+              
+          </div>
+          <a href="#" class="logo">KeeperCup <img src="images/stanleyCup.png" class="logo"></a>
         
-            <div id="logo">
-                
-                <a href="index.html">KeeperCup</a> 
-            
-            </div>
-            
-            <div>
-                
-                <a href="champs.html"><img src="images/stanleyCup.png" class="cupHeader"></a>
-            
-            </div>
-            
-            <div id="menuContainer">
-                
-                <div class="toggleButton" id="standings">Standings</div>
-                
-                <div class="toggleButton" id="trades">Trades</div>
-                
-                <a href="rules.html"><div class="toggleButton" id="rules">Rules</div></a>
-                
-                <a href="#"><div class="toggleButton" id="home">Home</div></a>
-     
-            </div> 
+      </nav>
+       
+   </div>
+      
+      <main>
+       
+       <!-- Landing area -->
         
+        <div id="landing">
+            
+                    <div id="landing-text">
+                        
+                        <div id="landing-text-inner">
+                            
+                            <h1>Teams</h1>
+                            
+                        </div>
+                        
+                    </div>
+
+            
         </div>
+        
+        <div id="teams">
+               
+               <button class="teamsTitle">Levi's Team</button>
+               
+               <div class="teamsContent">
+                
+                <div class="forwards">
+                
+                <h2>Forwards</h2>
+                  
+                  <ul>
+                  
+                  <li>M. Pacioretty</li>
+                  <li>J. Marchessault</li>
+                  <li>B. Wheeler</li>
+                  
+                  </ul>
+               
+               <ul>
+                   <li>P. Bergeron</li>
+                   <li>P. Laine</li>
+                   <li>S. Crosby</li>
+                   
+               </ul>
+               
+               <ul>
+                   
+                   <li>N. Backstrom</li>
+                   <li>C. Perry</li>
+                   <li>R. Getzlaf</li>
+                   
+               </ul>
+               
+               <ul>
+                   
+                   <li>E. Malkin</li>
+                   <li>N. Ehlers</li>
+                   <li>T. Johnson</li>
+                   
+               </ul>
+               
+               <ul>
+                   
+                   <li style="color: red;">J. Bailey</li>
+                   
+               </ul>
+               
+               </div>
+               
+               
+               <div class="defenders">
+               
+               <h2>Defence</h2>
+               
+               <ul>
+                   
+                   <li>K. Letang</li>
+                   <li>E. Karlsson</li>
+                   
+               </ul>
+               
+               <ul>
+                   
+                   <li>T. Chabot</li>
+                   <li>B. Burns</li>
+                   
+               </ul>
+               
+               <ul>
+                   
+                   <li>J. Klingberg</li>
+                   <li>S. Ghostisbehere</li>
+                   
+               </ul>
+               
+               
+               </div>
+               
+               <div class="goalies">
+               
+               <h2>Goalies</h2>
+               
+               <ul>
+                   
+                   <li>S. Bobrovsky</li>
+                   <li>F. Andersen</li>
+                   
+               </ul>
+               
+               
+               </div>
+               
+               
+               <div class="minor-pro">
+               
+               <h2>Minor Pro</h2>
+               
+               <ul>
+                   
+                   <li style="color: blue;">Empty</li>
+                   <li>S. Girard</li>
+                   <li style="color: blue;">Empty</li>
 
+               </ul>
+               
+               <ul>
+                   
+                   <li style="color: blue;">Empty</li>
+                   <li>J. Bratt</li>
+
+               </ul>
+               
+               <ul>
+                   
+                   <li>J. Saros</li>
+
+               </ul>
+               
+               
+               </div>
+               
+               <div class="prospects">
+                
+                <h2>Prospects</h2>
+                  
+                  <ul>
+                  
+                  <li>E. Tolvanen</li>
+                  <li>J. Roslovic</li>
+                  <li>J. Kyrou</li>
+                  
+                  </ul>
+               
+               <ul>
+                   <li>P. Bergeron</li>
+                   <li>P. Laine</li>
+                   <li>S. Crosby</li>
+                   
+               </ul>
+               
+               <ul>
+                   
+                   <li>N. Backstrom</li>
+                   <li>C. Perry</li>
+                   <li>R. Getzlaf</li>
+                   
+               </ul>
+               
+               <ul>
+                   
+                   <li>E. Malkin</li>
+                   <li>N. Ehlers</li>
+                   <li>T. Johnson</li>
+                   
+               </ul>
+               
+               <ul>
+                   
+                   <li style="color: red;">J. Bailey</li>
+                   
+               </ul>
+               
+               
+               
+               
+<h6 style="color:#b55130;"><b>Prospects</b></h6>
+<table style="width:100%;">
+<tbody>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>F. Chytil</td>
+<td>C. Timmins</td>
+<td style="color:red;">M. Barzal</td>
+</tr>
+<tr>
+<td>D. Sprong</td>
+<td style="color:red;">B. Boeser</td>
+<td>L. Crouse</td>
+</tr>
+<tr>
+<td>J.T. Compher</td>
+<td>M. Heiskanen</td>
+<td style="color:red;">S. Aho</td>
+</tr>
+<tr>
+<td>C. Makar</td>
+<td>C. Mittelstadt</td>
+<td>C. Glass</td>
+</tr>
+<tr>
+<td>E. Brannstrom</td>
+<td>L. Andersson</td>
+<td>K. Vesalainen</td>
+</tr>
+<tr>
+<td>J. Valimaki</td>
+<td>J. Ho-Sang</td>
+<td>V. Zykov</td>
+</tr>
+</tbody>
+</table>
+<h6 style="color:#b55130;"><b>2018 Picks</b></h6>
+<table style="width:100%;">
+<tbody>
+<tr>
+<td><b>1st:</b> AB, LH, RP</td>
+<td><b>2nd:</b> AE, RP</td>
+<td><b>3rd:</b> None</td>
+<td><b>4th:</b> TH</td>
+<td><b>5th:</b> DG, RH, AB, AE</td>
+</tr>
+</tbody>
+</table>
+<h6 style="color:#b55130;"><b>2019 Picks</b></h6>
+<table style="width:100%;">
+<tbody>
+<tr>
+<td><b>1st:</b> AE, LH</td>
+<td><b>2nd:</b> KH, RH</td>
+<td><b>3rd:</b> None</td>
+<td><b>4th:</b> TH</td>
+<td><b>5th:</b> DG, TH, RH</td>
+</tr>
+</tbody>
+</table>
+<h6 style="color:#b55130;"><b>Waiver Picks</b></h6>
+<table style="width:100%;">
+<tbody>
+<tr>
+<td>None</td>
+</tr>
+</tbody>
+</table>
+<h6 style="color:#b55130;"><b>Minor Pro Picks</b></h6>
+<table style="width:100%;">
+<tbody>
+<tr>
+<td><b>1st:</b> KH, LH, AE</td>
+<td><b>2nd:</b> LH</td>
+<td><b>3rd:</b> None</td>
+<td><b>4th:</b> LH</td>
+<td><b>5th:</b> LH</td>
+</tr>
+</tbody>
+</table>
+    
+    </div>
+               
+           </div>
+        
+        
+        
+        
+    </main>
+    
+    </div>
+    
+    <footer>
+        
+        <h3>Get in touch</h3>
+        <p>Email or call us to set up a consult</p>
+        <p>email: <strong>something</strong></p>
+        <p>phone: <strong>something</strong></p>
+
+    </footer>
+    
+    <!-- calls the Nav Icon:hamburger -->
+    
+    <script 
+        
+    src="https://code.jquery.com/jquery-3.3.1.min.js"
+        
+    integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+        
+    crossorigin="anonymous"></script>
+    
+    <script src="js/main.js"></script>
+    
+    <script>
+        function myFunction() {
+            
+            var x = document.getElementById("left-menu-links");
+            if (x.style.display === "block") {
+                
+                x.style.display = "none";
+            
+            } else {
+                
+                x.style.display = "block";
+            }
+        };
+    </script>
+    
+    <!-- Collabsible script, makes the team lists collabsible on their own -->
+    <script>
+        
+        var coll = document.getElementsByClassName("teamsTitle");
+        var i;
+        
+        for (i = 0; i < coll.length; i++) {
+            
+            coll[i].addEventListener("click", function() {
+                
+                this.classList.toggle("active");
+                var content = this.nextElementSibling;
+                if (content.style.display === "block") {
+                    content.style.display = "none";
+                    
+                } else {
+                    
+                    content.style.display = "block";
+                
+                }
+            });
+        }
+    
+    </script>
+    
 </body>
-
 </html>

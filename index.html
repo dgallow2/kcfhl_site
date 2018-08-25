@@ -8,6 +8,8 @@
     <meta http-equiv="X-UA-Compatible" content="ie-edge">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    
+    
 </head>
 <body>
    
@@ -16,15 +18,11 @@
    <div class="nav-container">
       
       <nav>
+        
+        <a href="#" class="logo">KeeperCup <img src="images/stanleyCup.png" class="logo"></a>
          
           <div class="left-menu">
               <ul>
-              
-              <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-              
-                <i class="fa fa-bars"></i>
-                
-                 </a>
                  
                  <div id="left-menu-links">
                  
@@ -38,7 +36,7 @@
               
               
           </div>
-          <a href="#" class="logo">KeeperCup <img src="images/stanleyCup.png" class="logo"></a>
+          
         
       </nav>
        
@@ -49,18 +47,12 @@
        <!-- Landing area -->
         
         <div id="landing">
-            
-                    <div id="landing-text">
-                        
-                        <div id="landing-text-inner">
-                            
-                            <h1>Teams</h1>
-                            
-                        </div>
-                        
-                    </div>
-
-            
+        
+        <div id="landing-text">
+        
+        <h1>Teams</h1>
+        
+        </div>
         </div>
         
         <div id="teams">
@@ -225,6 +217,8 @@
                    
                </ul>
                
+               </div>
+               
                
                
                
@@ -349,18 +343,22 @@
         function myFunction() {
             
             var x = document.getElementById("left-menu-links");
+            var y = document.getElementsByClassName("logo");
+
             if (x.style.display === "block") {
                 
                 x.style.display = "none";
+                y.style.display = "block";
             
             } else {
                 
                 x.style.display = "block";
+                y.style.display = "none";
             }
         };
     </script>
     
-    <!-- Collabsible script, makes the team lists collabsible on their own -->
+    <!-- Collabsible script, makes individually collabsible team lists -->
     <script>
         
         var coll = document.getElementsByClassName("teamsTitle");
@@ -384,6 +382,7 @@
         }
     
     </script>
+  
     
 </body>
 </html>

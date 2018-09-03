@@ -1,3 +1,5 @@
+/* General styling that must be included on each style sheet in order for everything to work */
+
 @import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
 
 /* Resetting the css to reduce issues across browsers or for old browsers taken from https://meyerweb.com/eric/tools/css/reset/ */
@@ -15,42 +17,40 @@ article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup, 
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
-	margin: 0;
-	padding: 0;
-	border: 0;
-	font-size: 100%;
-	font: inherit;
-	vertical-align: baseline;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
 }
 
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
-	display: block;
+    display: block;
 }
 body {
-	line-height: 1;
+    line-height: 1;
 }
 ol, ul {
-	list-style: none;
+    list-style: none;
 }
 blockquote, q {
-	quotes: none;
+    quotes: none;
 }
 blockquote:before, blockquote:after,
 q:before, q:after {
-	content: '';
-	content: none;
+    content: '';
+    content: none;
 }
 table {
-	border-collapse: collapse;
-	border-spacing: 0;
+    border-collapse: collapse;
+    border-spacing: 0;
 }
 
-/* My CSS for the site starts here */
-
 body {
-    
+
     font-family: 'Roboto Condensed', sans-serif;
     margin: 0;
     background: #00685E;
@@ -58,40 +58,47 @@ body {
 }
 
 h1 {
-    
+
     font-weight: 400;
     font-size: 2.5rem;
     text-transform: uppercase;
     margin: 0;
-    
+
 }
 
 h2 {
-    
+
     font-weight: 400;
     font-size: 1.2rem;
     text-transform: capitalize;
     margin: 0;
+
+}
+
+h3 {
+    
+    font-weight: 400;
+    margin:0;
     
 }
 
 img {
-    
+
     display: block;
     width: 100%;
-    
+
 }
 
 main {
-    
+
     max-width: 900px;
     margin: auto;
     box-shadow: 30px 0px 40px rgba(0,0,0,0.1),-30px 0px 40px rgba(0,0,0,0.1);  
-        
+
 }
 
 .wrapper {
-    
+
     margin-right:auto;
     margin-left: auto;
     max-width: 960px;
@@ -99,109 +106,12 @@ main {
     padding-left: 10px;
     background: #00685E;
 
-    
+
 }
 
-/* Nav bar styling */
-
-.nav-container {
-    
-    width:100%;
-    
-}
-
-nav {
-    
-    margin: 0 auto;
-    display: grid;
-    grid-template-columns: 1fr auto 1fr;
-    padding-top:1rem;
-    padding-bottom: 1rem;
-    text-align: center;
-    
-}
-
-.left-menu {
-    
-    grid-column: 2;
-    grid-row: 2;
-    margin: 0;
-    padding:0;
-}
-
-#left-menu-links li {
-    
-    padding-right: 10px;
-    padding-left: 5px;
-    font-size: 1.1rem;
-    color: #fff;
-    border-right: 1px solid #eee;
-    
-    
-        
-    }
-    
-    #left-menu-links li:last-child {
-        
-        border-right: none;
-        
-    }
-
-.left-menu li {
-    
-    margin: 0;
-    padding:0;
-    display:inline-block;
-    
-}
-
-
-.logo {
-    
-    grid-column: 2;
-    font-size: 3rem;
-    margin: auto;
-    padding-bottom:2rem;
-    
-}
-
-.logo, a {
-    
-    text-decoration: none;
-    color: #eee;
-    
-}
-
-.logo, img {
-    
-    float:right;
-    padding-left: 0.3rem;
-    height:3rem;
-    width:auto;
-    
-}
-
-.logo:hover {
-    
-    color:#FCC72C;
-    transition: 1s;
-    
-}
-
-.menu-link:hover {
-    
-    color:#FCC72C;
-    transition: 1s;
-    
-}
+/* End General Styling */
 
 /* Head of the page where the page title goes */
-
-main {
-    
-    border-radius: 20px;
-    border-bottom-left-radius: 20px;
-}
 
 #landing {
     
@@ -236,7 +146,9 @@ main {
 #teams {
     
     background-color: #eee;
-    border-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+
     
 }
 
@@ -246,12 +158,13 @@ main {
     width: 100%;
     padding:1rem;
     
-    background: #333;
-    color: #fff;
+    background: #FCC72C;
+    color: #333;
     text-align: center;
     font-weight: bold;
     font-size: 1.5rem;
-    font-family: 'Roboto Condensed', sans-serif; 
+    font-family: 'Roboto Condensed', sans-serif;
+    border-bottom: 2px solid #333;
     
     
 }
@@ -262,13 +175,36 @@ main {
     border: none;
     outline: none;
     transition: 0.4s;
+    border-bottom: 2px solid #333;
+
+    
 
 }
 
 .teamsTitle:hover {
     
-    color:#333;
-    background: #FCC72C;
+    color:#eee;
+    background: #333;
+    
+}
+
+.name {
+    
+    display: inline-block;
+    
+}
+
+.name, img {
+    
+    height: 1.5rem;
+    width: auto;
+    padding-top: 1.5px;
+    
+}
+
+.teamsContent {
+    
+    padding-bottom: 2.5rem;
     
 }
 
@@ -313,9 +249,79 @@ main {
     
 }
 
-/* team section specific styling. Broken up by positions or type of asset */
+.picks h2 {
+    
+    text-align: center;
+    font-size: 1.2rem;
+    padding-top: 1.5rem;
+    padding-bottom: 2rem;
+    text-decoration: underline;
+        
+        
+}
 
+.picks h3 {
+    
+    text-align: center;
+    font-size: 1.2rem;
+    padding-bottom: 1rem;
+    text-decoration: underline;
 
+}
+
+.entry-picks {
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 100%;
+    margin:0;
+    padding-left: 50px;
+    
+}
+
+.entry-draft-one {
+    
+    grid-column: 1;
+    width: 50%;
+    text-align: center;
+    
+}
+
+.entry-draft-two {
+    
+    grid-column: 2;
+    width: 50%;
+    text-align: center;
+    
+}
+
+.entry-picks li {
+    
+    display: inline-block;
+    padding-bottom:0.5rem;
+    padding-top: 0.5rem;
+    width:100%;
+    text-align: center;
+    
+}
+
+.entry-picks ul:after {
+    
+    display:none;!important
+    
+}
+
+.waivers li {
+    
+    width: 19%;
+    
+}
+
+.minor-pro-picks li {
+    
+    width: 14%;
+    
+}
 
 /* footer content for mobile */
 
@@ -357,31 +363,24 @@ footer h3 {
         
     }
     
+    .entry-picks {
+    
+    padding-left: 100px;
+    
+    }
+    
+    .name, img {
+    
+    height: 2rem;
+    
+}
+    
 }
 
 /* Screens sizes 700px and up */
 
 @media(min-width:910px) {
     
-    nav {
-        
-        max-width: 1720px;
-    }
-    
-    #left-menu-links li {
-        
-        padding-right: 10px;
-        padding-left: 5px;
-        font-size: 1.3rem;
-        border-right: 1px solid #eee;
-        
-    }
-    
-    #left-menu-links li:last-child {
-        
-        border-right: none;
-        
-    }
     
     .teamsTitle {
         

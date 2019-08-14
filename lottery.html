@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Keeper Cup Fantasy Hockey League</title>
+        
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="css/nav.css">
+        <link rel="stylesheet" href="css/lottery.css">
+        <link rel="stylesheet" href="css/footer-distributed.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="icon" type="image/png" href="images/stanleyCup.png">
+
+   
+    </head>
+    <body>
+
+        <div class="wrapper">
+
+            <div class="nav-container">
+
+                <nav>
+
+                    <a href="#" class="logo">KeeperCup <img src="images/stanleyCup.png" class="logo"></a>
+
+                    <div class="left-menu">
+                        <ul>
+
+                            <div id="left-menu-links">
+
+                                <li><a href="index.html" class="menu-link">Home</a></li>
+                                <li><a href="#" class="menu-link">Trade Centre</a></li>
+                                <li><a href="#" class="menu-link">Standings</a></li>
+                                <li><a href="rules.html" class="menu-link">Rules</a></li>
+
+                            </div>
+                        </ul>
+
+
+                    </div>
+
+
+                </nav>
+
+            </div>
+
+            <main>
+
+                <!-- Landing area -->
+
+                <div id="landing">
+
+                    <div id="landing-text">
+
+                        <h1>Lottery</h1>
+
+                    </div>
+                    
+                </div>
+                
+                <div id="teams">
+
+                    <div id="contentContainer">
+                      
+                      <div class="draftLottery">
+                                                
+                                                 
+                         <div class="btnContainer">
+                         
+                             <button id="startLot" style="display:block" onclick="myFunction()">Start Lottery</button>
+                             <button id="continueLot" style="display:none" onclick="myFunction()">Continue Lottery</button>
+                             <button id="finLot" style="display:none">Finish Lottery</button>
+                             <button value="Refresh Page" onClick="window.location.href=window.location.href" id="resetLot" style="display:block">Reset</button>
+                         
+                         </div>
+                          
+                       
+                        <div class="tableContainer">
+                                                   
+                            <table class="lotTeams">
+                                
+                                <tr class="standingsTitleRow">
+                               
+                                    <th>RNK</th>
+                                    <th>Name</th>
+                                    <th>PTS</th>
+                                    <th>ODDS</th>
+                                
+                                </tr>
+                                
+                                <tr class="standingsRowOne">
+                               
+                                    <td>1</td>
+                                    <td>Andrew</td>
+                                    <td>1128</td>
+                                    <td>42.86%</td>
+                                
+                                </tr>
+                                
+                                <tr class="standingsRowTwo">
+                               
+                                    <td>2</td>
+                                    <td>Tyler</td>
+                                    <td>1209</td>
+                                    <td>28.57%</td>
+                                
+                                </tr>
+                                
+                                <tr class="standingsRowThree">
+                               
+                                    <td>3</td>
+                                    <td>Dylan</td>
+                                    <td>1396</td>
+                                    <td>19.05%</td>
+                                
+                                </tr>
+                                
+                                <tr class="standingsRowFour">
+                               
+                                    <td>4</td>
+                                    <td>Ryan</td>
+                                    <td>1413</td>
+                                    <td>9.52%</td>
+                                
+                                </tr>
+                                
+                        </table>
+                        
+                        </div><!-- end tableContainer div -->
+                      </div><!-- end draftLottery div -->
+                        
+                        
+                    </div><!-- end contentContainer div -->
+
+                </div><!-- end teams div -->
+                
+            </main>
+
+        </div><!-- end wrapper div -->
+
+        <footer class="footer-distributed">
+
+			<div class="footer-right">
+
+                <a href="https://www.eliteprospects.com/"><img src="images/elite-prospects-logo.png"></a>
+				<a href="https://www.nhl.com/"><img src="images/nhl-logo.png"></a>
+				<a href="https://www.capfriendly.com/"><img src="images/cap-friendly-logo.png"></a>
+				<a href="https://twitter.com/"><img src="images/twitter-logo.png"></a>
+
+			</div>
+
+			<div class="footer-left">
+
+				<p class="footer-links">
+					<a href="/index.html">Home</a>
+					·
+					<a href="#">Trade Centre</a>
+					·
+					<a href="standings.html">Standings</a>
+					·
+					<a href="rules.html">Rules</a>
+				</p>
+
+				<p>Keeper Cup Fantasy Hockey League &copy; 2019</p>
+			</div>
+
+		</footer>
+		
+		<script type="text/javascript">
+            
+            function myFunction() {
+                    
+                    document.getElementById("startLot").style.display = "none";
+                
+                if (                    document.getElementById("startLot").style.display = "none";) {
+                    
+                    document.getElementById("continueLot").style.display = "block";
+                    
+                };
+                    
+                };
+                                            
+        </script>
+           
+    </body>
+</html>

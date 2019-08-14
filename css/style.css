@@ -109,6 +109,7 @@ main {
 
 }
 
+
 /* End General Styling */
 
 /* Head of the page where the page title goes */
@@ -146,9 +147,13 @@ main {
 #teams {
     
     background-color: #eee;
-    border-top-left-radius: 20px;
-    border-top-right-radius: 20px;
+}
 
+#contentContainer {
+    
+    background-color: #eee;
+    width: 100%;
+    text-align: center;
     
 }
 
@@ -157,7 +162,6 @@ main {
     margin: auto;
     width: 100%;
     padding:1rem;
-    
     background: #FCC72C;
     color: #333;
     text-align: center;
@@ -326,22 +330,7 @@ main {
 /* footer content for mobile */
 
 
-footer {
-    
-    text-align: center;
-    padding:  2rem 1rem;
-    margin:auto;
-    color: #333;
-    
-    
-}
 
-footer h3 {
-    
-    font-size: 3rem;
-    margin-bottom: 0;
-    
-}
 
 /* Screen sizes 500px and up */
 

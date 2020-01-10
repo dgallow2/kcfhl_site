@@ -1,0 +1,222 @@
+/* General styling that must be included on each style sheet in order for everything to work */
+
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+
+/* Resetting the css to reduce issues across browsers or for old browsers taken from https://meyerweb.com/eric/tools/css/reset/ */
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+body {
+    line-height: 1;
+}
+ol, ul {
+    list-style: none;
+}
+blockquote, q {
+    quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: '';
+    content: none;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+body {
+
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 0;
+    background: #00685E;
+    height: auto;
+}
+
+h1 {
+
+    font-weight: 400;
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    margin: 0;
+
+}
+
+h2 {
+
+    font-weight: 400;
+    font-size: 1.2rem;
+    text-transform: capitalize;
+    margin: 0;
+
+}
+
+img {
+
+    display: block;
+    width: 100%;
+
+}
+
+main {
+
+    max-width: 900px;
+    margin: auto;
+    box-shadow: 30px 0px 40px rgba(0,0,0,0.1),-30px 0px 40px rgba(0,0,0,0.1);  
+
+}
+
+.wrapper {
+
+    margin-right:auto;
+    margin-left: auto;
+    max-width: 960px;
+    padding-right: 10px;
+    padding-left: 10px;
+    background: #00685E;
+
+
+}
+
+/* End General Styling */
+
+/* Nav container styling */
+
+.nav-container {
+
+    width:100%;
+
+}
+
+nav {
+
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+    padding-top:1rem;
+    padding-bottom: 1rem;
+    text-align: center;
+
+}
+
+.left-menu {
+
+    grid-column: 2;
+    grid-row: 2;
+    margin: 0;
+    padding:0;
+}
+
+#left-menu-links li {
+
+    padding-right: 10px;
+    padding-left: 5px;
+    font-size: 1.1rem;
+    color: #fff;
+    border-right: 1px solid #eee;
+
+
+
+}
+
+#left-menu-links li:last-child {
+
+    border-right: none;
+
+}
+
+.left-menu li {
+
+    margin: 0;
+    padding:0;
+    display:inline-block;
+
+}
+
+
+.logo {
+
+    grid-column: 2;
+    font-size: 3rem;
+    margin: auto;
+    padding-bottom:2rem;
+
+}
+
+.logo, a {
+
+    text-decoration: none;
+    color: #eee;
+
+}
+
+.logo, img {
+
+    float:right;
+    padding-left: 0.3rem;
+    height:3rem;
+    width:auto;
+
+}
+
+.logo:hover {
+
+    color:#FCC72C;
+    transition: 1s;
+
+}
+
+.menu-link:hover {
+
+    color:#FCC72C;
+    transition: 1s;
+
+}
+
+/* Screens sizes 700px and up */
+
+@media(min-width:910px) {
+
+    nav {
+
+        max-width: 1720px;
+    }
+
+    #left-menu-links li {
+
+        padding-right: 10px;
+        padding-left: 5px;
+        font-size: 1.3rem;
+        border-right: 1px solid #eee;
+
+    }
+
+    #left-menu-links li:last-child {
+
+        border-right: none;
+
+    }

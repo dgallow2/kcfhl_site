@@ -1,0 +1,479 @@
+{
+  "Levi": {
+    "players": [
+      "J. Kyrou",
+      "T. Zegras",
+      "M. Necas",
+      "D. Hamilton",
+      "E. Karlsson",
+      "I. Shesterkin",
+      "J. Oettinger"
+    ],
+    "minor_pro": [
+      "I. Fedotov",
+      "T. Kartye",
+      "B. Nadeau"
+    ],
+    "prospects": [
+      "R. Salo",
+      "S. Poulin",
+      "E. Miedema"
+    ],
+    "picks": [
+      "1st: JVD",
+      "2nd: KH",
+      "3rd: None",
+      "4th: LH",
+      "1st: JVD",
+      "2nd: KH",
+      "3rd: None",
+      "4th: LH",
+      "1st: JVD",
+      "2nd: KH",
+      "3rd: None",
+      "4th: LH",
+      "1st: LH",
+      "2nd: LH",
+      "3rd: LH",
+      "4th: LH",
+      "1st: LH",
+      "2nd: LH",
+      "3rd: LH",
+      "4th: LH",
+      "5th: LH",
+      "6th: LH",
+      "WW",
+      "WW",
+      "WW",
+      "WW",
+      "WW"
+    ],
+    "waiver_claims": 5
+  },
+  "Ryan": {
+    "players": [
+      "B. Horvat",
+      "J. Tavares",
+      "S. Reinhart",
+      "N. Pionk",
+      "K. Miller",
+      "A. Georgiev",
+      "Stolarz"
+    ],
+    "minor_pro": [
+      "E. Zamula",
+      "D. Voronkov",
+      "J. Brazeau"
+    ],
+    "prospects": [
+      "Z. Dean",
+      "T. Foerster",
+      "D. Jiricek"
+    ],
+    "picks": [
+      "1st: RP",
+      "2nd: None",
+      "3rd: None",
+      "4th: None",
+      "1st: RP",
+      "2nd: None",
+      "3rd: None",
+      "4th: None",
+      "1st: RP",
+      "2nd: None",
+      "3rd: None",
+      "4th: None",
+      "1st: RP",
+      "2nd: RP",
+      "3rd: RP",
+      "4th: RP",
+      "1st: RP",
+      "2nd: RP",
+      "3rd: RP",
+      "4th: RP",
+      "5th: RP",
+      "6th: RP",
+      "WW"
+    ],
+    "waiver_claims": 5
+  },
+  "Ken": {
+    "players": [
+      "I. Barbashev",
+      "P. Laine",
+      "D. Cozens",
+      "F. Hronek",
+      "B. Byram",
+      "J. Swayman",
+      "L. Dostal"
+    ],
+    "minor_pro": [
+      "J. Fowler",
+      "V. Koivunen",
+      "M. Knies"
+    ],
+    "prospects": [
+      "R. Chesley",
+      "T. Luneau",
+      "K. Lind"
+    ],
+    "picks": [
+      "1st: None",
+      "2nd: RP, AB",
+      "3rd: None",
+      "4th: None",
+      "1st: None",
+      "2nd: RP, AB",
+      "3rd: None",
+      "4th: None",
+      "1st: None",
+      "2nd: RP, AB",
+      "3rd: None",
+      "4th: None",
+      "1st: None",
+      "2nd: None",
+      "3rd: None",
+      "4th: None",
+      "1st: KH",
+      "2nd: KH",
+      "3rd: KH",
+      "4th: KH",
+      "5th: KH",
+      "6th: KH"
+    ],
+    "waiver_claims": 5
+  },
+  "Andrew": {
+    "players": [
+      "P.L. Dubois",
+      "M. Zuccarello",
+      "S. Stamkos",
+      "J. Petry",
+      "D. Orlov",
+      "C. Ingram",
+      "A. Hill"
+    ],
+    "minor_pro": [
+      "(Empty)",
+      "(Empty)",
+      "E. Soderblom"
+    ],
+    "prospects": [
+      "J. McIsaac",
+      "Z. Benson",
+      "S. Bowers"
+    ],
+    "picks": [
+      "1st: AE",
+      "2nd: LH, DG",
+      "3rd: LH, JVD, DG, KH",
+      "4th: AE, RP, RH",
+      "1st: AE",
+      "2nd: LH, DG",
+      "3rd: LH, JVD, DG, KH",
+      "4th: AE, RP, RH",
+      "1st: AE",
+      "2nd: LH, DG",
+      "3rd: LH, JVD, DG, KH",
+      "4th: AE, RP, RH",
+      "1st: AE",
+      "2nd: None",
+      "3rd: None",
+      "4th: AE, KH",
+      "1st: AE",
+      "2nd: AE",
+      "3rd: AE",
+      "4th: AE",
+      "5th: AE",
+      "6th: AE"
+    ],
+    "waiver_claims": 5
+  },
+  "Johnny": {
+    "players": [
+      "J. McCann",
+      "B. Tkachuk",
+      "A. Tuch",
+      "B. Skjei",
+      "D. Toews",
+      "I. Sorokin",
+      "J. Saros"
+    ],
+    "minor_pro": [
+      "J. Hofer",
+      "L. Merilainen",
+      "A. Laferriere"
+    ],
+    "prospects": [
+      "F. Nazar",
+      "C. Barlow",
+      "D. Letourneau"
+    ],
+    "picks": [
+      "1st: LH, TH, DG",
+      "2nd: AE, JVD",
+      "3rd: None",
+      "4th: JVD, TH",
+      "1st: LH, TH, DG",
+      "2nd: AE, JVD",
+      "3rd: None",
+      "4th: JVD, TH",
+      "1st: LH, TH, DG",
+      "2nd: AE, JVD",
+      "3rd: None",
+      "4th: JVD, TH",
+      "1st: JVD",
+      "2nd: JVD, KH",
+      "3rd: JVD",
+      "4th: JVD",
+      "1st: JVD",
+      "2nd: JVD",
+      "3rd: JVD",
+      "4th: JVD",
+      "5th: JVD",
+      "6th: JVD",
+      "WW",
+      "WW"
+    ],
+    "waiver_claims": 5
+  },
+  "Tyler": {
+    "players": [
+      "C. Verhaeghe",
+      "J.T. Miller",
+      "J. Bratt",
+      "J. Chychrun",
+      "J. Walman",
+      "T. Demko",
+      "S. Skinner"
+    ],
+    "minor_pro": [
+      "N. Chibrikov",
+      "R. Evans",
+      "W. Cuylle"
+    ],
+    "prospects": [
+      "S. Honzek",
+      "C. Stramel",
+      "C. Stillman"
+    ],
+    "picks": [
+      "1st: None",
+      "2nd: None",
+      "3rd: AE",
+      "4th: LH",
+      "1st: None",
+      "2nd: None",
+      "3rd: AE",
+      "4th: LH",
+      "1st: None",
+      "2nd: None",
+      "3rd: AE",
+      "4th: LH",
+      "1st: TH",
+      "2nd: TH",
+      "3rd: TH",
+      "4th: TH",
+      "1st: TH",
+      "2nd: TH",
+      "3rd: TH",
+      "4th: TH",
+      "5th: TH",
+      "6th: TH",
+      "WW",
+      "WW"
+    ],
+    "waiver_claims": 5
+  },
+  "Rudy": {
+    "players": [
+      "S. Pinto",
+      "J. Norris",
+      "K. Marchenko",
+      "B. Clarke",
+      "M. Ekholm",
+      "U.P. Luukkonen",
+      "J. Markstrom"
+    ],
+    "minor_pro": [
+      "E. Heineman",
+      "F. Minten",
+      "G.Gonclaves"
+    ],
+    "prospects": [
+      "J. Firkus",
+      "Q. Musty",
+      "A. Kiviharju"
+    ],
+    "picks": [
+      "1st: RH",
+      "2nd: RH, TH",
+      "3rd: SC",
+      "4th: RH",
+      "1st: RH",
+      "2nd: RH, TH",
+      "3rd: SC",
+      "4th: RH",
+      "1st: RH",
+      "2nd: RH, TH",
+      "3rd: SC",
+      "4th: RH",
+      "1st: RH",
+      "2nd: RH, AE",
+      "3rd: RH",
+      "4th: RH",
+      "1st: RH",
+      "2nd: RH",
+      "3rd: RH",
+      "4th: RH",
+      "5th: RH",
+      "6th: RH"
+    ],
+    "waiver_claims": 5
+  },
+  "Adam": {
+    "players": [
+      "N. Suzuki",
+      "M. Duchene",
+      "T. Stutzle",
+      "M. Heiskanen",
+      "J. Sanderson",
+      "S. Bobrovsky",
+      "F. Gustavsson"
+    ],
+    "minor_pro": [
+      "M. Tsyplakov",
+      "H. Brzustewicz",
+      "J. Parssinen"
+    ],
+    "prospects": [
+      "C. Lucius",
+      "M. Savoie",
+      "D. James"
+    ],
+    "picks": [
+      "1st: AB, KH",
+      "2nd: None",
+      "3rd: AB",
+      "4th: AB",
+      "1st: AB, KH",
+      "2nd: None",
+      "3rd: AB",
+      "4th: AB",
+      "1st: AB, KH",
+      "2nd: None",
+      "3rd: AB",
+      "4th: AB",
+      "1st: AB",
+      "2nd: AB",
+      "3rd: AB",
+      "4th: AB",
+      "1st: AB",
+      "2nd: AB",
+      "3rd: AB",
+      "4th: AB",
+      "5th: AB",
+      "6th: AB",
+      "WW",
+      "WW"
+    ],
+    "waiver_claims": 5
+  },
+  "Dylan": {
+    "players": [
+      "C. Bedard",
+      "A. Matthews",
+      "A. Kempe",
+      "Q. Hughes",
+      "V. Hedman",
+      "A. Vasilevsky",
+      "C. Hellebuyck"
+    ],
+    "minor_pro": [
+      "B. Berard",
+      "B. Faber",
+      "C. Koepke"
+    ],
+    "prospects": [
+      "A. Heponiemi",
+      "E. Sale",
+      "S. Wright"
+    ],
+    "picks": [
+      "1st: None",
+      "2nd: None",
+      "3rd: TH",
+      "4th: DG, KH",
+      "1st: None",
+      "2nd: None",
+      "3rd: TH",
+      "4th: DG, KH",
+      "1st: None",
+      "2nd: None",
+      "3rd: TH",
+      "4th: DG, KH",
+      "1st: DG, KH",
+      "2nd: DG",
+      "3rd: DG, AE, KH",
+      "4th: DG",
+      "1st: DG",
+      "2nd: DG",
+      "3rd: DG",
+      "4th: DG",
+      "5th: DG",
+      "6th: DG",
+      "WW",
+      "WW"
+    ],
+    "waiver_claims": 5
+  },
+  "Shawn": {
+    "players": [
+      "A. Mantha",
+      "W. Karlsson",
+      "J. Eriksson Ek",
+      "T. Chabot",
+      "N. Hanifin",
+      "V. Vanecek",
+      "P. Kotchetkov"
+    ],
+    "minor_pro": [
+      "J. Greaves",
+      "B. Brisson",
+      "K. Johnson"
+    ],
+    "prospects": [
+      "N. Gaucher",
+      "L. Ohgren",
+      "R. Heidt"
+    ],
+    "picks": [
+      "1st: SC",
+      "2nd: SC",
+      "3rd: RP",
+      "4th: SC",
+      "1st: SC",
+      "2nd: SC",
+      "3rd: RP",
+      "4th: SC",
+      "1st: SC",
+      "2nd: SC",
+      "3rd: RP",
+      "4th: SC",
+      "1st: SC",
+      "2nd: SC",
+      "3rd: SC",
+      "4th: SC",
+      "1st: SC",
+      "2nd: SC",
+      "3rd: SC",
+      "4th: SC",
+      "5th: SC",
+      "6th: SC",
+      "WW",
+      "WW",
+      "WW"
+    ],
+    "waiver_claims": 5
+  }
+}

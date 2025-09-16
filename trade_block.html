@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Keeper Cup Fantasy Hockey League</title>
+
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="css/rules.css">
+        <link rel="stylesheet" href="css/nav.css">
+        <link rel="stylesheet" href="css/standings.css">
+        <link rel="stylesheet" href="css/footer-distributed.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="icon" type="image/png" href="images/stanleyCup.png">
+        
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-134635861-1"></script>
+        
+        <script>
+            
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            
+            gtag('config', 'UA-134635861-1');
+        
+        </script>
+    </head>
+    <body>
+
+        <div class="wrapper">
+
+            <div class="nav-container">
+
+                <nav>
+
+                    <a href="#" class="logo">KeeperCup <img src="images/stanleyCup.png" class="logo"></a>
+
+                    <div class="left-menu">
+                        <ul>
+
+                            <div id="left-menu-links">
+
+                                <li><a href="index.html" class="menu-link">Home</a></li>
+                                <li><a href="draft_center.html" class="menu-link">Drafts</a></li>
+                                <li><a href="trade_block.html" class="menu-link">Trade Blocks</a></li>
+                                <li><a href="standings.html" class="menu-link">Standings</a></li>
+                                <li><a href="rules.html" class="menu-link">Rules</a></li>
+
+                            </div>
+                        </ul>
+
+
+                    </div>
+
+
+                </nav>
+
+            </div>
+
+            <main>
+
+                <!-- Landing area -->
+
+                <div id="landing">
+
+                    <div id="landing-text">
+
+                        <h1>Trade Blocks</h1>
+
+                    </div>
+                </div>
+
+              <div id="teams">
+
+                    <div class="teamsContent">
+
+                        <div id="contentContainer">
+
+                            <div class="section">
+
+                                <h2>Instructions</h2>
+
+                                <p>Click the title "Live Trade Block. It will take you to a Google Sheet that you can edit. Edit only your team with your trade block. <br /></p>
+
+                                <p>No limit on the number of things or players you can list. Stick to just your column. The site will update live after a few minutes.</p>
+
+                            </div>
+
+                        </div>
+                         <div class="tableContainer">
+
+                            <h2><a style="color:black !important;" href="https://docs.google.com/spreadsheets/d/1CUY1fGSvABlB3GASDaqDpGfPj0lxkkIp9Frna6DPZrI/edit?usp=sharing">Live Trade Block</a></div></h2>
+
+                            <iframe style="width: 100%; height: 300px;" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSUZcCGdksgj73fqbYhZOktf295c2DEIni4fEGi9gptugZ6_nG5les0OkcPt7XD7jV3HVmRLE9sMOEz/pubhtml?widget=true&amp;headers=false"></iframe>
+                        </div>
+
+                        
+
+                    </div> <!-- End of trade block -->
+
+
+                </div>
+             
+            </main>
+
+        </div>
+
+
+
+        <footer class="footer-distributed">
+
+            <div class="footer-right">
+
+                <a href="https://www.eliteprospects.com/"><img src="images/elite-prospects-logo.png"></a>
+                <a href="https://www.nhl.com/"><img src="images/nhl-logo.png"></a>
+                <a href="https://www.capfriendly.com/"><img src="images/cap-friendly-logo.png"></a>
+                <a href="https://twitter.com/"><img src="images/twitter-logo.png"></a>
+
+            </div>
+
+            <div class="footer-left">
+
+                <p class="footer-links">
+                    <a href="/index.html">Home</a>
+                    ·
+                    <a href="/draft_center.html">Draft Centre</a>
+                    ·
+                    <a href="standings.html">Standings</a>
+                    ·
+                    <a href="rules.html">Rules</a>
+                </p>
+
+                <p>Keeper Cup Fantasy Hockey League &copy; 2019</p>
+            </div>
+
+        </footer>
+
+        <!-- Collabsible script, makes individually collabsible team lists -->
+        <script>
+
+            var coll = document.getElementsByClassName("teamsTitle");
+            var i;
+
+            for (i = 0; i < coll.length; i++) {
+
+                coll[i].addEventListener("click", function() {
+
+                    this.classList.toggle("active");
+                    var content = this.nextElementSibling;
+                    if (content.style.display === "none") {
+                        content.style.display = "block";
+
+                    } else {
+
+                        content.style.display = "none";
+
+                    }
+                });
+            }
+
+        </script>
+
+    </body>
+</html>

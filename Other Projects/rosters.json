@@ -1,0 +1,341 @@
+{
+  "league": "Keeper Cup Fantasy Hockey League",
+  "schema_version": "1.0",
+  "last_updated": "2025-08-31",
+  "teams_index": {
+    "LH": "Levi",
+    "RP": "Ryan",
+    "KH": "Ken",
+    "AE": "Andrew",
+    "JVD": "Johnny",
+    "TH": "Tyler",
+    "RH": "Rudy",
+    "AB": "Adam",
+    "DG": "Dylan",
+    "SC": "Shawn"
+  },
+  "teams": [
+    {
+      "id": "LH",
+      "name": "Levi",
+      "roster": {
+        "forwards": ["J. Kyrou","T. Zegras","M. Necas","N. MacKinnon","A. Panarin","M. Boldy","J. Robertson","J. Hughes","A. Kopitar","M. Zibanejad","A. Ovechkin","M. Marner"],
+        "defence": ["D. Hamilton","E. Karlsson","K. Letang","C. Makar","A. Fox","S. Theodore"],
+        "goalies": ["I. Shesterkin","J. Oettinger"],
+        "minor_pro": ["I. Fedotov","T. Kartye","B. Nadeau","B. Bussi","M. Lohrie","D. Wolf"],
+        "prospects": ["R. Salo","S. Poulin","E. Miedema","J. Perreault","J. Studnika","A. Suniev","C. Cuelemens","V. Soderstrom","C. Ritchie","C. Timmins","K. Bellows","C. Guindon","A. Silayev","L. Greentree","C. Beaudoin","J. Luchanko","D. Wakely","S. Gill","H. Mews"]
+      },
+      "entry_picks": [
+        {"year": 2025, "round": 1, "original_owner": "JVD", "status": "owned"},
+        {"year": 2025, "round": 2, "original_owner": "KH", "status": "owned"},
+        {"year": 2025, "round": 3, "status": "empty"},
+        {"year": 2025, "round": 4, "original_owner": "LH", "status": "owned"},
+        {"year": 2026, "round": 1, "original_owner": "LH", "status": "owned"},
+        {"year": 2026, "round": 2, "original_owner": "LH", "status": "owned"},
+        {"year": 2026, "round": 3, "original_owner": "LH", "status": "owned"},
+        {"year": 2026, "round": 4, "original_owner": "LH", "status": "owned"}
+      ],
+      "minor_pro_picks": [
+        {"round": 1, "original_owner": "LH", "status": "owned"},
+        {"round": 2, "original_owner": "LH", "status": "owned"},
+        {"round": 3, "original_owner": "LH", "status": "owned"},
+        {"round": 4, "original_owner": "LH", "status": "owned"},
+        {"round": 5, "original_owner": "LH", "status": "owned"},
+        {"round": 6, "original_owner": "LH", "status": "owned"}
+      ],
+      "waivers": {"count": 5}
+    },
+    {
+      "id": "RP",
+      "name": "Ryan",
+      "roster": {
+        "forwards": ["B. Horvat","J. Tavares","S. Reinhart","N. Schmaltz","A. Debrincat","M. Scheifele","T. Seguin","W. Nylander","K. Kaprizov","C. Perfetti","F. Forsberg","C. Caufield"],
+        "defence": ["N. Pionk","K. Miller","D. Doughty","A. Pietrangelo","R. Josi","M. Reilly"],
+        "goalies": ["A. Georgiev","Stolarz"],
+        "minor_pro": ["E. Zamula","D. Voronkov","J. Brazeau","A. Turcotte","O. Back","J. Dobes"],
+        "prospects": ["Z. Dean","T. Foerster","D. Jiricek","L. Bischel","J. Mysak","L. Pettersson","C. Gauthier","I. Rosen","G. Denisenko","R. Suzuki","J. Beecher","R. Tufte","N. Robertson","M. Bourque","N. Foote","T. Iginla","B. Sennecke","T. Parascak","M. Vanacker","M. Gridin"]
+      },
+      "entry_picks": [
+        {"year": 2025, "round": 1, "original_owner": "RP", "status": "owned"},
+        {"year": 2025, "round": 2, "status": "empty"},
+        {"year": 2025, "round": 3, "status": "empty"},
+        {"year": 2025, "round": 4, "status": "empty"},
+        {"year": 2026, "round": 1, "original_owner": "RP", "status": "owned"},
+        {"year": 2026, "round": 2, "original_owner": "RP", "status": "owned"},
+        {"year": 2026, "round": 3, "original_owner": "RP", "status": "owned"},
+        {"year": 2026, "round": 4, "original_owner": "RP", "status": "owned"}
+      ],
+      "minor_pro_picks": [
+        {"round": 1, "original_owner": "RP", "status": "owned"},
+        {"round": 2, "original_owner": "RP", "status": "owned"},
+        {"round": 3, "original_owner": "RP", "status": "owned"},
+        {"round": 4, "original_owner": "RP", "status": "owned"},
+        {"round": 5, "original_owner": "RP", "status": "owned"},
+        {"round": 6, "original_owner": "RP", "status": "owned"}
+      ],
+      "waivers": {"count": 1}
+    },
+    {
+      "id": "KH",
+      "name": "Ken",
+      "roster": {
+        "forwards": ["I. Barbashev","P. Laine","D. Cozens","A. Protas","A. Lundell","D. Batherson","M. Beniers","T. Teravainen","T. Terry","M. McTavish","F. Zetterlund","A. Svechnikov"],
+        "defence": ["F. Hronek","B. Byram","B. Montour","J. Moser","J. Siegenthaler","A. Ekblad"],
+        "goalies": ["J. Swayman","L. Dostal"],
+        "minor_pro": ["J. Fowler","V. Koivunen","M. Knies","A. Laferriere","A. Gritsyuk","S. Colangelo","S. Rinzel","A. Silovs","P. Broberg","J. Woll"],
+        "prospects": ["R. Chesley","T. Luneau","K. Lind","R. Greene","A. Raty","S. Nemec","T. Niemela","D. Reinbacher","M. Soogard","S. O'Reilly","F. Pinelli","R. McGroarty","O. Pickering","H. Haight","N. Danielson","A. Jiricek","O. Bonk","M. Wood","D. Goyette","C. Kyrou","E. Cowan","S. Edvinsson"]
+      },
+      "entry_picks": [
+        {"year": 2025, "round": 1, "status": "empty"},
+        {"year": 2025, "round": 2, "status": "empty"},
+        {"year": 2025, "round": 3, "status": "empty"},
+        {"year": 2025, "round": 4, "status": "empty"},
+        {"year": 2026, "round": 1, "status": "empty"},
+        {"year": 2026, "round": 2, "status": "empty"},
+        {"year": 2026, "round": 3, "status": "empty"},
+        {"year": 2026, "round": 4, "status": "empty"}
+      ],
+      "minor_pro_picks": [
+        {"round": 1, "original_owner": "KH", "status": "owned"},
+        {"round": 2, "original_owner": "KH", "status": "owned"},
+        {"round": 3, "original_owner": "KH", "status": "owned"},
+        {"round": 4, "original_owner": "KH", "status": "owned"},
+        {"round": 5, "original_owner": "KH", "status": "owned"},
+        {"round": 6, "original_owner": "KH", "status": "owned"}
+      ],
+      "waivers": {"count": 0}
+    },
+    {
+      "id": "AE",
+      "name": "Andrew",
+      "roster": {
+        "forwards": ["P.L. Dubois","M. Zuccarello","S. Stamkos","T. Hertl","C. Giroux","R. Nugent-Hopkins","B. Marchand","P. Buchnevich","J. Skinner","A. Kuzmenko","C. Mittelstadt","M. Bunting"],
+        "defence": ["J. Petry","D. Orlov","T. Sanheim","J. Faulk","H. Lindholm","T. Barrie"],
+        "goalies": ["C. Ingram","A. Hill"],
+        "minor_pro": ["E. Soderblom","R. Harvey-Pinard","J. Struble","D. Cooley"],
+        "prospects": ["J. McIsaac","Z. Benson","S. Bowers","A. Mascherin","T. Parsons","N. Beaudin","M. Letunov","K. Clark","C. Savoie","G. White","J. Hawrlyuk","B.O. Groulx","I. Ratcliffe","B. Danford","O. Olausson","T. Boucher","A. Perevalov","X. Bourgault","L. Edmonds","G. Trikozov","R. Lavoie"]
+      },
+      "entry_picks": [
+        {"year": 2025, "round": 1, "original_owner": "AE", "status": "owned"},
+        {"year": 2025, "round": 2, "original_owner": "LH", "status": "owned"},
+        {"year": 2025, "round": 2, "original_owner": "DG", "status": "owned"},
+        {"year": 2025, "round": 3, "original_owner": "LH", "status": "owned"},
+        {"year": 2025, "round": 3, "original_owner": "JVD", "status": "owned"},
+        {"year": 2025, "round": 3, "original_owner": "DG", "status": "owned"},
+        {"year": 2025, "round": 3, "original_owner": "KH", "status": "owned"},
+        {"year": 2025, "round": 4, "original_owner": "AE", "status": "owned"},
+        {"year": 2025, "round": 4, "original_owner": "RP", "status": "owned"},
+        {"year": 2025, "round": 4, "original_owner": "RH", "status": "owned"},
+        {"year": 2026, "round": 1, "original_owner": "AE", "status": "owned"},
+        {"year": 2026, "round": 2, "status": "empty"},
+        {"year": 2026, "round": 3, "status": "empty"},
+        {"year": 2026, "round": 4, "original_owner": "AE", "status": "owned"},
+        {"year": 2026, "round": 4, "original_owner": "KH", "status": "owned"}
+      ],
+      "minor_pro_picks": [
+        {"round": 1, "original_owner": "AE", "status": "owned"},
+        {"round": 2, "original_owner": "AE", "status": "owned"},
+        {"round": 3, "original_owner": "AE", "status": "owned"},
+        {"round": 4, "original_owner": "AE", "status": "owned"},
+        {"round": 5, "original_owner": "AE", "status": "owned"},
+        {"round": 6, "original_owner": "AE", "status": "owned"}
+      ],
+      "waivers": {"count": 0}
+    },
+    {
+      "id": "JVD",
+      "name": "Johnny",
+      "roster": {
+        "forwards": ["J. McCann","B. Tkachuk","A. Tuch","R. Hintz","A. Barkov","N. Ehlers","J. Huberdeau","K. Connor","D. Guenther","M. Tkachuk","L. Draisaitl","T. Thompson"],
+        "defence": ["B. Skjei","D. Toews","S. Ghostisbear","J. Morrissey","R. Andersson","G. Forsling"],
+        "goalies": ["I. Sorokin","J. Saros"],
+        "minor_pro": ["J. Hofer","L. Merilainen","M. Poitras","C. Primeau","J. Blomqvist"],
+        "prospects": ["F. Nazar","C. Barlow","D. Letourneau","K. Korchinski","C. Geekie","B. Brink","S. Dickinson","L. Stankoven","S. Casey","J. Doan","G. Perreault","L. Sahlin-Wallenius","S. Pastujov","C. Lambos","G. Gulyayev","Nelson","S. Cossa","M. Samoskevich","Z. Parekh","Z. Buium","A. Levshunov"]
+      },
+      "entry_picks": [
+        {"year": 2025, "round": 1, "original_owner": "LH", "status": "owned"},
+        {"year": 2025, "round": 1, "original_owner": "TH", "status": "owned"},
+        {"year": 2025, "round": 1, "original_owner": "DG", "status": "owned"},
+        {"year": 2025, "round": 2, "original_owner": "AE", "status": "owned"},
+        {"year": 2025, "round": 2, "original_owner": "JVD", "status": "owned"},
+        {"year": 2025, "round": 2, "original_owner": "AB", "status": "owned"},
+        {"year": 2025, "round": 3, "status": "empty"},
+        {"year": 2025, "round": 4, "original_owner": "JVD", "status": "owned"},
+        {"year": 2025, "round": 4, "original_owner": "TH", "status": "owned"},
+        {"year": 2026, "round": 1, "original_owner": "JVD", "status": "owned"},
+        {"year": 2026, "round": 2, "original_owner": "JVD", "status": "owned"},
+        {"year": 2026, "round": 2, "original_owner": "KH", "status": "owned"},
+        {"year": 2026, "round": 3, "original_owner": "JVD", "status": "owned"},
+        {"year": 2026, "round": 4, "original_owner": "JVD", "status": "owned"}
+      ],
+      "minor_pro_picks": [
+        {"round": 1, "original_owner": "JVD", "status": "owned"},
+        {"round": 2, "original_owner": "JVD", "status": "owned"},
+        {"round": 3, "original_owner": "JVD", "status": "owned"},
+        {"round": 4, "original_owner": "JVD", "status": "owned"},
+        {"round": 5, "original_owner": "JVD", "status": "owned"},
+        {"round": 6, "original_owner": "JVD", "status": "owned"}
+      ],
+      "waivers": {"count": 1}
+    },
+    {
+      "id": "TH",
+      "name": "Tyler",
+      "roster": {
+        "forwards": ["C. Verhaeghe","J.T. Miller","J. Bratt","B. Hagel","M. Rantanen","V. Trochek","D. Larkin","J. Hyman","N. Kadri","N. Kucherov","K. Fiala","W. Johnston"],
+        "defence": ["J. Chychrun","J. Walman","E. Bouchard","Z. Wereknski","T. Harley","M. Matheson"],
+        "goalies": ["T. Demko","S. Skinner"],
+        "minor_pro": ["N. Chibrikov","R. Evans","W. Cuylle","N. Kovalenko","G. Merkulov","M. Shabanov"],
+        "prospects": ["S. Honzek","C. Stramel","C. Stillman","Z. Ostapchuk","J. Barron","J. Perron","V. Heinola","C. Zary","J. Berggren","J. Lauko","L. Reichel","K. Ziemmer","M. DiPietro","I. Miroshnichenko","B. Yager","R. Greig","C. Yakemchuk","Terrance","K. Helenius","C. Eiserman","M. Hage","N. Artamonov","I. Chernyshov","T. Stiga"]
+      },
+      "entry_picks": [
+        {"year": 2025, "round": 1, "status": "empty"},
+        {"year": 2025, "round": 2, "status": "empty"},
+        {"year": 2025, "round": 3, "original_owner": "AE", "status": "owned"},
+        {"year": 2025, "round": 4, "original_owner": "LH", "status": "owned"},
+        {"year": 2026, "round": 1, "original_owner": "TH", "status": "owned"},
+        {"year": 2026, "round": 2, "original_owner": "TH", "status": "owned"},
+        {"year": 2026, "round": 3, "original_owner": "TH", "status": "owned"},
+        {"year": 2026, "round": 4, "original_owner": "TH", "status": "owned"}
+      ],
+      "minor_pro_picks": [
+        {"round": 1, "original_owner": "TH", "status": "owned"},
+        {"round": 2, "original_owner": "TH", "status": "owned"},
+        {"round": 3, "original_owner": "TH", "status": "owned"},
+        {"round": 4, "original_owner": "TH", "status": "owned"},
+        {"round": 5, "original_owner": "TH", "status": "owned"},
+        {"round": 6, "original_owner": "TH", "status": "owned"}
+      ],
+      "waivers": {"count": 1}
+    },
+    {
+      "id": "RH",
+      "name": "Rudy",
+      "roster": {
+        "forwards": ["S. Pinto","J. Norris","K. Marchenko","B. Nelson","S. Aho","R. Thomas","W. Eklund","O. Tippet","G. Vilardi","J.J. Peterka","C. McMicheal","J. Guentzel"],
+        "defence": ["B. Clarke","M. Ekholm","S. Durzi","N. Dobson","T. Krug","O. Power"],
+        "goalies": ["U.P. Luukkonen","J. Markstrom"],
+        "minor_pro": ["E. Heineman","F. Minten","G.Gonclaves","J. Lacombe","J. Wallstedt"],
+        "prospects": ["J. Firkus","Q. Musty","A. Kiviharju","L. Hutson","L. Dragicevic","J. Hrabel","N. Lardis","L. Carlsson","O. Moore","J. Pelletier","F. Mesar","M. Celebrini","C. Lidstrom","B. Catton","B. Lambert","C. Hutson","T. Connelly"]
+      },
+      "entry_picks": [
+        {"year": 2025, "round": 1, "original_owner": "RH", "status": "owned"},
+        {"year": 2025, "round": 2, "original_owner": "RH", "status": "owned"},
+        {"year": 2025, "round": 2, "original_owner": "TH", "status": "owned"},
+        {"year": 2025, "round": 2, "original_owner": "RP", "status": "owned"},
+        {"year": 2025, "round": 3, "original_owner": "SC", "status": "owned"},
+        {"year": 2025, "round": 4, "original_owner": "RH", "status": "owned"},
+        {"year": 2026, "round": 1, "original_owner": "RH", "status": "owned"},
+        {"year": 2026, "round": 2, "original_owner": "RH", "status": "owned"},
+        {"year": 2026, "round": 2, "original_owner": "AE", "status": "owned"},
+        {"year": 2026, "round": 3, "original_owner": "RH", "status": "owned"},
+        {"year": 2026, "round": 4, "original_owner": "RH", "status": "owned"}
+      ],
+      "minor_pro_picks": [
+        {"round": 1, "original_owner": "RH", "status": "owned"},
+        {"round": 2, "original_owner": "RH", "status": "owned"},
+        {"round": 3, "original_owner": "RH", "status": "owned"},
+        {"round": 4, "original_owner": "RH", "status": "owned"},
+        {"round": 5, "original_owner": "RH", "status": "owned"},
+        {"round": 6, "original_owner": "RH", "status": "owned"}
+      ],
+      "waivers": {"count": 0}
+    },
+    {
+      "id": "AB",
+      "name": "Adam",
+      "roster": {
+        "forwards": ["N. Suzuki","M. Duchene","T. Stutzle","A. Lafreniere","B. Boeser","J. Eichel","M. Barzal","C. McDavid","N. Hischier","J. Debrusk","Q. Byfield","T. Konecny"],
+        "defence": ["M. Heiskanen","J. Sanderson","R. Dahlin","J. Drysdale","C. McAvoy","S. Jones"],
+        "goalies": ["S. Bobrovsky","F. Gustavsson"],
+        "minor_pro": ["M. Tsyplakov","H. Brzustewicz","J. Parssinen","P. Dorofeyev","Y. Askarov","H. Shepard"],
+        "prospects": ["C. Lucius","M. Savoie","D. James","S. Morrow","J. Kemell","M. Mitchkov","Filmon","B. Othmann","F. Svechkov","O. Wiesblatt","L. Mailloux","D. Dvorsky","J. Nyman","M. Kasper","T. Willander","N. Ostlund","J. Snuggerud","O. Stenberg","S. Boisvert","Y. Surin"]
+      },
+      "entry_picks": [
+        {"year": 2025, "round": 1, "original_owner": "AB", "status": "owned"},
+        {"year": 2025, "round": 1, "original_owner": "KH", "status": "owned"},
+        {"year": 2025, "round": 2, "status": "empty"},
+        {"year": 2025, "round": 3, "original_owner": "AB", "status": "owned"},
+        {"year": 2025, "round": 4, "original_owner": "AB", "status": "owned"},
+        {"year": 2026, "round": 1, "original_owner": "AB", "status": "owned"},
+        {"year": 2026, "round": 2, "original_owner": "AB", "status": "owned"},
+        {"year": 2026, "round": 3, "original_owner": "AB", "status": "owned"},
+        {"year": 2026, "round": 4, "original_owner": "AB", "status": "owned"}
+      ],
+      "minor_pro_picks": [
+        {"round": 1, "original_owner": "AB", "status": "owned"},
+        {"round": 2, "original_owner": "AB", "status": "owned"},
+        {"round": 3, "original_owner": "AB", "status": "owned"},
+        {"round": 4, "original_owner": "AB", "status": "owned"},
+        {"round": 5, "original_owner": "AB", "status": "owned"},
+        {"round": 6, "original_owner": "AB", "status": "owned"}
+      ],
+      "waivers": {"count": 2}
+    },
+    {
+      "id": "DG",
+      "name": "Dylan",
+      "roster": {
+        "forwards": ["C. Bedard","A. Matthews","A. Kempe","S. Crosby","S. Jarvis","M. Granlunc","L. Raymond","C. Keller","E. Pettersson","D. Pastrnak","B. Point","T. Meier"],
+        "defence": ["Q. Hughes","V. Hedman","V. Dunn","M Seider","M. Sergachev","M. Weegar"],
+        "goalies": ["A. Vasilevsky","C. Hellebuyck"],
+        "minor_pro": ["B. Berard","B. Faber","C. Koepke","D. Holloway","J. Blake","D. Hildeby"],
+        "prospects": ["A. Heponiemi","E. Sale","S. Wright","J. Kulich","G. Brindley","D. Duke","V. Kravstov","A. Thomas","H. Lapierre","N. Gunler","Z. L'Heureux","D. But","R. Leonard","D. Yurov","T. Augustine","O. Beck","L. Del Bel Belluz","L. Tuch","E. Hemming"]
+      },
+      "entry_picks": [
+        {"year": 2025, "round": 1, "status": "empty"},
+        {"year": 2025, "round": 2, "status": "empty"},
+        {"year": 2025, "round": 3, "original_owner": "TH", "status": "owned"},
+        {"year": 2025, "round": 4, "original_owner": "DG", "status": "owned"},
+        {"year": 2025, "round": 4, "original_owner": "KH", "status": "owned"},
+        {"year": 2026, "round": 1, "original_owner": "DG", "status": "owned"},
+        {"year": 2026, "round": 1, "original_owner": "KH", "status": "owned"},
+        {"year": 2026, "round": 2, "original_owner": "DG", "status": "owned"},
+        {"year": 2026, "round": 3, "original_owner": "DG", "status": "owned"},
+        {"year": 2026, "round": 3, "original_owner": "AE", "status": "owned"},
+        {"year": 2026, "round": 3, "original_owner": "KH", "status": "owned"},
+        {"year": 2026, "round": 4, "original_owner": "DG", "status": "owned"}
+      ],
+      "minor_pro_picks": [
+        {"round": 1, "original_owner": "DG", "status": "owned"},
+        {"round": 2, "original_owner": "DG", "status": "owned"},
+        {"round": 3, "original_owner": "DG", "status": "owned"},
+        {"round": 4, "original_owner": "DG", "status": "owned"},
+        {"round": 5, "original_owner": "DG", "status": "owned"},
+        {"round": 6, "original_owner": "DG", "status": "owned"}
+      ],
+      "waivers": {"count": 2}
+    },
+    {
+      "id": "SC",
+      "name": "Shawn",
+      "roster": {
+        "forwards": ["A. Mantha","W. Karlsson","J. Eriksson Ek","D. Strome","R. Donato","Y. Sharangovich","A. Cirelli","J. Slafkovsky","J. Quinn","M. Stone","M. Rossi","K. Kakko"],
+        "defence": ["T. Chabot","N. Hanifin","J. Slavin","M. Dumba","J. Carlson","B. Pesce"],
+        "goalies": ["V. Vanecek","P. Kotchetkov"],
+        "minor_pro": ["J. Greaves","B. Brisson","K. Johnson","A. Nikishin","Z. Jones","D. Tarasov"],
+        "prospects": ["N. Gaucher","L. Ohgren","R. Heidt","L. Hughes","Z. Bolduc","A. Sandin-Pellika","O. Zellweger","B. Gaudreau","D. Simishev","M. Coronato","D. Levi","F. Lysell","L. Cooley","J. Lekkerimaki","A. Cristall","P. Mintyukov","I. Howard","D. Mateychuk","A. Fantilli","W. Smith","I. Demidov","M. Brandsegg-Nygard"]
+      },
+      "entry_picks": [
+        {"year": 2025, "round": 1, "original_owner": "SC", "status": "owned"},
+        {"year": 2025, "round": 2, "original_owner": "SC", "status": "owned"},
+        {"year": 2025, "round": 3, "original_owner": "RP", "status": "owned"},
+        {"year": 2025, "round": 4, "original_owner": "SC", "status": "owned"},
+        {"year": 2026, "round": 1, "original_owner": "SC", "status": "owned"},
+        {"year": 2026, "round": 2, "original_owner": "SC", "status": "owned"},
+        {"year": 2026, "round": 3, "original_owner": "SC", "status": "owned"},
+        {"year": 2026, "round": 4, "original_owner": "SC", "status": "owned"}
+      ],
+      "minor_pro_picks": [
+        {"round": 1, "original_owner": "SC", "status": "owned"},
+        {"round": 2, "original_owner": "SC", "status": "owned"},
+        {"round": 3, "original_owner": "SC", "status": "owned"},
+        {"round": 4, "original_owner": "SC", "status": "owned"},
+        {"round": 5, "original_owner": "SC", "status": "owned"},
+        {"round": 6, "original_owner": "SC", "status": "owned"}
+      ],
+      "waivers": {"count": 3}
+    }
+  ],
+  "transaction_log": []
+}

@@ -1,0 +1,113 @@
+{
+  "id": "rudy",
+  "name": "Rudy",
+  "roster": {
+    "forwards": [
+      "M. Celebrini",
+      "J. Norris",
+      "K. Marchenko",
+      "B. Nelson",
+      "M. Knies",
+      "R. Thomas",
+      "S. Aho",
+      "L. Carlson",
+      "D. Mercer",
+      "C. Keller",
+      "C. McMicheal",
+      "A. Barkov"
+    ],
+    "defence": [
+      "B. Clarke",
+      "L. Hutson",
+      "S. Durzi",
+      "J. Lacombe",
+      "A. Ekblad",
+      "T. Harley"
+    ],
+    "goalies": [
+      "T. Demko",
+      "L. Dostal"
+    ],
+    "minor_pro": [
+      "J. Fowler",
+      "S. Malinski",
+      "S. Rinzel",
+      "I. Protas",
+      "Sourdif",
+      "J. Wallstedt"
+    ],
+    "prospects": [
+      "C. Reschny",
+      "Q. Musty",
+      "A. Kiviharju",
+      "L. Dragicevic",
+      "T. Connelly",
+      "J. Hrabel",
+      "N. Lardis",
+      "R. McGroarty",
+      "O. Moore",
+      "J. Pelletier",
+      "C. Hutson",
+      "J. Nesbitt",
+      "B. Catton",
+      "K. Helenius",
+      "P. Martone",
+      "L. Lakovic",
+      "R. Lee",
+      "W. Moore",
+      "C. Reid",
+      "C. Desnoyers"
+    ]
+  },
+  "entry_picks": {
+    "2026": {
+      "1st": [
+        "TH"
+      ],
+      "2nd": [
+        "RH"
+      ],
+      "3rd": [
+        "RH"
+      ],
+      "4th": []
+    },
+    "2027": {
+      "1st": [
+        "RH",
+        "KH",
+        "TH"
+      ],
+      "2nd": [],
+      "3rd": [
+        "KH",
+        "TH"
+      ],
+      "4th": [
+        "RH"
+      ]
+    }
+  },
+  "minor_pro_picks": {
+    "1st": [
+      "RH"
+    ],
+    "2nd": [
+      "RH"
+    ],
+    "3rd": [
+      "RH"
+    ],
+    "4th": [
+      "RH"
+    ],
+    "5th": [
+      "RH"
+    ],
+    "6th": [
+      "RH"
+    ]
+  },
+  "code": "RH",
+  "waivers": []
+}

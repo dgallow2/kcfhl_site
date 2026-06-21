@@ -1,0 +1,126 @@
+{
+  "id": "dylan",
+  "name": "Dylan",
+  "roster": {
+    "forwards": [
+      "C. Bedard",
+      "A. Matthews",
+      "A. Kempe",
+      "S. Crosby",
+      "S. Jarvis",
+      "D. Holloway",
+      "L. Raymond",
+      "M. McTavish",
+      "E. Pettersson",
+      "D. Pastrnak",
+      "B. Point",
+      "S. Wright"
+    ],
+    "defence": [
+      "Q. Hughes",
+      "V. Hedman",
+      "V. Dunn",
+      "M Seider",
+      "M. Sergachev",
+      "B. Faber"
+    ],
+    "goalies": [
+      "A. Vasilevsky",
+      "C. Hellebuyck"
+    ],
+    "minor_pro": [
+      "B. Berard",
+      "T. Miner",
+      "C. Koepke",
+      "J. Hyrckowian",
+      "J. Blake",
+      "D. Hildeby"
+    ],
+    "prospects": [
+      "A. Heponiemi",
+      "E. Sale",
+      "E. Hemming",
+      "J. Kulich",
+      "G. Brindley",
+      "D. Duke",
+      "V. Kravstov",
+      "A. Thomas",
+      "H. Lapierre",
+      "N. Gunler",
+      "Z. L'Heureux",
+      "D. But",
+      "R. Leonard",
+      "D. Yurov",
+      "T. Augustine",
+      "O. Beck",
+      "L. Del Bel Belluz",
+      "L. Tuch",
+      "T. Stockselius",
+      "B. Zonnon",
+      "C. Cerrato"
+    ]
+  },
+  "entry_picks": {
+    "2026": {
+      "1st": [
+        "DG",
+        "KH"
+      ],
+      "2nd": [
+        "DG",
+        "AE"
+      ],
+      "3rd": [
+        "AE",
+        "KH"
+      ],
+      "4th": [
+        "DG",
+        "RH"
+      ]
+    },
+    "2027": {
+      "1st": [
+        "DG"
+      ],
+      "2nd": [
+        "DG",
+        "RH"
+      ],
+      "3rd": [
+        "DG"
+      ],
+      "4th": [
+        "DG"
+      ]
+    }
+  },
+  "minor_pro_picks": {
+    "1st": [
+      "KH",
+      "DG"
+    ],
+    "2nd": [
+      "DG"
+    ],
+    "3rd": [
+      "DG"
+    ],
+    "4th": [
+      "DG"
+    ],
+    "5th": [
+      "DG"
+    ],
+    "6th": [
+      "DG"
+    ]
+  },
+  "code": "DG",
+  "waivers": [
+    "WW1",
+    "WW2",
+    "WW3",
+    "WW4"
+  ]
+}

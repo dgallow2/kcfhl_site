@@ -6,12 +6,12 @@
         
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <link rel="stylesheet" href="css/style.css">
-        <link rel="stylesheet" href="css/nav.css">
-        <link rel="stylesheet" href="css/standings.css">
-        <link rel="stylesheet" href="css/footer-distributed.css">
+        <link rel="stylesheet" href="../../02 - css/01 - current/style.css">
+        <link rel="stylesheet" href="../../02 - css/01 - current/nav.css">
+        <link rel="stylesheet" href="../../02 - css/01 - current/standings.css">
+        <link rel="stylesheet" href="../../02 - css/01 - current/footer-distributed.css">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-        <link rel="icon" type="image/png" href="images/stanleyCup.png">
+        <link rel="icon" type="image/png" href="../images/stanleyCup.png">
 
    
     </head>
@@ -21,22 +21,17 @@
 
             <div class="nav-container">
 
-                <nav>
+                <nav aria-label="Primary navigation">
 
-                    <a href="#" class="logo">KeeperCup <img src="images/stanleyCup.png" class="logo"></a>
+                    <a href="index.html" class="logo" aria-label="KeeperCup home">KeeperCup <img src="../images/stanleyCup.png" class="logo-mark" alt=""></a>
 
                     <div class="left-menu">
-                        <ul>
-
-                             <div id="left-menu-links">
-
+                        <ul id="left-menu-links">
                                 <li><a href="index.html" class="menu-link">Home</a></li>
                                 <li><a href="draft_center.html" class="menu-link">Drafts</a></li>
                                 <li><a href="trade_block.html" class="menu-link">Trade Blocks</a></li>
-                                <li><a href="standings.html" class="menu-link">Standings</a></li>
+                                <li><a href="standings.html" class="menu-link is-active" aria-current="page">Standings</a></li>
                                 <li><a href="rules.html" class="menu-link">Rules</a></li>
-
-                            </div>
                         </ul>
 
 
@@ -87,7 +82,7 @@
                                 <tr class="standingsRowOne">
                                
                                     <td>1</td>
-                                    <td><img src="images/stanleyCup.png" class="name">Dylan</td>
+                                    <td><img src="../images/stanleyCup.png" class="name">Dylan</td>
                                     <td>1756</td>
                                     <td>187</td>
                                 
@@ -205,7 +200,7 @@
                                 <tr class="standingsRowOne">
                                
                                     <td>1</td>
-                                    <td><img src="images/stanleyCup.png" class="name">Tyler</td>
+                                    <td><img src="../images/stanleyCup.png" class="name">Tyler</td>
                                     <td>1850</td>
                                     <td>188</td>
                                 
@@ -321,7 +316,7 @@
                                 <tr class="standingsRowOne">
                                
                                     <td>1</td>
-                                    <td><img src="images/stanleyCup.png" class="name">Levi</td>
+                                    <td><img src="../images/stanleyCup.png" class="name">Levi</td>
                                     <td>1971</td>
                                     <td>187</td>
                                 
@@ -423,24 +418,26 @@
 
 			<div class="footer-right">
 
-                <a href="https://www.eliteprospects.com/"><img src="images/elite-prospects-logo.png"></a>
-				<a href="https://www.nhl.com/"><img src="images/nhl-logo.png"></a>
-				<a href="https://www.capfriendly.com/"><img src="images/cap-friendly-logo.png"></a>
-				<a href="https://twitter.com/"><img src="images/twitter-logo.png"></a>
+                <a href="https://www.eliteprospects.com/"><img src="../images/elite-prospects-logo.png" alt="Elite Prospects"></a>
+				<a href="https://www.nhl.com/"><img src="../images/nhl-logo.png" alt="NHL"></a>
+				<a href="https://www.capfriendly.com/"><img src="../images/cap-friendly-logo.png" alt="CapFriendly"></a>
+				<a href="https://twitter.com/"><img src="../images/twitter-logo.png" alt="Twitter"></a>
 
 			</div>
 
 			<div class="footer-left">
 
 				<p class="footer-links">
-					<a href="/index.html">Home</a>
-					·
-					<a href="#">Trade Centre</a>
-					·
-					<a href="standings.html">Standings</a>
-					·
-					<a href="rules.html">Rules</a>
-				</p>
+                    <a href="index.html">Home</a>
+                    ·
+                    <a href="draft_center.html">Drafts</a>
+                    ·
+                    <a href="trade_block.html">Trade Blocks</a>
+                    ·
+                    <a href="standings.html">Standings</a>
+                    ·
+                    <a href="rules.html">Rules</a>
+                </p>
 
 				<p>Keeper Cup Fantasy Hockey League &copy; 2019</p>
 			</div>

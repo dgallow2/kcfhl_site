@@ -1,18 +1,15 @@
 /* downloaded this footer from here https://tutorialzine.com/2015/01/freebie-5-responsive-footer-templates */
 
 .footer-distributed{
-    position: fixed;
-    left: 0;
-    bottom: 0;
 	background-color: #292c2f;
 	box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
 	box-sizing: border-box;
 	width: 100%;
 	text-align: left;
-	font: 'Roboto Condensed', sans-serif;
+	font-family: 'Roboto Condensed', sans-serif;
 
 	padding: 45px 50px;
-	margin-top: 10rem;
+	margin-top: 3rem;
 }
 
 .footer-distributed .footer-left p{

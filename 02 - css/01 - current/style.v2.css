@@ -200,7 +200,8 @@ main {
     
 }
 
-.name, img {
+.name img,
+img.name {
     
     height: 1.5rem;
     width: auto;
@@ -318,21 +319,31 @@ main {
 }
 
 .waivers li {
-    
     width: 19%;
-    
 }
 
 .minor-pro-picks li {
-    
     width: 14%;
     
 }
 
 .tradeblock a{
-
     color: #333;
 }
+
+/* Inline-color cleanup */
+
+.empty {
+    color: blue;
+}
+.offseason {
+    color: gainsboro;
+}
+
+.noncompliant {
+    color: red;
+}
+
 
 /* footer content for mobile */
 
@@ -365,7 +376,8 @@ main {
     
     }
     
-    .name, img {
+    .name img,
+    img.name {
     
     height: 2rem;
     
@@ -398,4 +410,3 @@ main {
     }
     
 }
-

@@ -1,0 +1,118 @@
+{
+  "id": "adam",
+  "name": "Adam",
+  "roster": {
+    "forwards": [
+      "N. Suzuki",
+      "Bertuzzi",
+      "T. Stutzle",
+      "D. Strome",
+      "C. Verhaeghe",
+      "J. Eichel",
+      "M. Barzal",
+      "C. McDavid",
+      "N. Hischier",
+      "M. Mitchkov",
+      "Q. Byfield",
+      "T. Konecny"
+    ],
+    "defence": [
+      "M. Heiskanen",
+      "J. Sanderson",
+      "R. Dahlin",
+      "J. Carlson",
+      "C. McAvoy",
+      "S. Jones"
+    ],
+    "goalies": [
+      "S. Bobrovsky",
+      "F. Gustavsson"
+    ],
+    "minor_pro": [
+      "M. Tsyplakov",
+      "H. Brzustewicz",
+      "M. Khusnutdinov",
+      "D. Helleson",
+      "Y. Askarov",
+      "H. Shepard"
+    ],
+    "prospects": [
+      "C. Lucius",
+      "M. Savoie",
+      "D. James",
+      "S. Morrow",
+      "J. Kemell",
+      "Y. Surin",
+      "Filmon",
+      "B. Othmann",
+      "F. Svechkov",
+      "O. Wiesblatt",
+      "L. Mailloux",
+      "D. Dvorsky",
+      "J. Nyman",
+      "M. Kasper",
+      "T. Willander",
+      "N. Ostlund",
+      "J. Snuggerud",
+      "O. Stenberg",
+      "S. Boisvert",
+      "M. Misa",
+      "R. McQueen",
+      "W. Horcoff",
+      "M. Gastrin"
+    ]
+  },
+  "entry_picks": {
+    "2026": {
+      "1st": [
+        "AB"
+      ],
+      "2nd": [],
+      "3rd": [
+        "AB"
+      ],
+      "4th": [
+        "AB"
+      ]
+    },
+    "2027": {
+      "1st": [
+        "AB"
+      ],
+      "2nd": [
+        "AB"
+      ],
+      "3rd": [
+        "AB"
+      ],
+      "4th": [
+        "AB"
+      ]
+    }
+  },
+  "minor_pro_picks": {
+    "1st": [
+      "AB"
+    ],
+    "2nd": [
+      "AB"
+    ],
+    "3rd": [
+      "AB"
+    ],
+    "4th": [
+      "AB"
+    ],
+    "5th": [
+      "AB"
+    ],
+    "6th": [
+      "AB"
+    ]
+  },
+  "code": "AB",
+  "waivers": [
+    "WW1",
+    "WW2"
+  ]
+}

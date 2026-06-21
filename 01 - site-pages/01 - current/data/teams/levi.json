@@ -1,0 +1,113 @@
+{
+  "id": "levi",
+  "name": "Levi",
+  "roster": {
+    "forwards": [
+      "J. Kyrou",
+      "T. Zegras",
+      "M. Necas",
+      "N. MacKinnon",
+      "A. Panarin",
+      "M. Boldy",
+      "J. Robertson",
+      "J. Hughes",
+      "A. Kopitar",
+      "M. Zibanejad",
+      "A. Ovechkin",
+      "M. Marner"
+    ],
+    "defence": [
+      "D. Hamilton",
+      "E. Karlsson",
+      "M. Lohrie",
+      "C. Makar",
+      "A. Fox",
+      "S. Theodore"
+    ],
+    "goalies": [
+      "I. Shesterkin",
+      "J. Oettinger"
+    ],
+    "minor_pro": [
+      "E. Wyttenbach",
+      "R. Uftko",
+      "B. Nadeau",
+      "D. Barley",
+      "A. Bump",
+      "B. Bussi"
+    ],
+    "prospects": [
+      "R. Salo",
+      "S. Poulin",
+      "E. Miedema",
+      "J. Perreault",
+      "A. Suniev",
+      "H. Mews",
+      "C. Cuelemens",
+      "V. Soderstrom",
+      "C. Ritchie",
+      "C. Guindon",
+      "S. Gill",
+      "D. Wakely",
+      "A. Silayev",
+      "L. Greentree",
+      "C. Beaudoin",
+      "J. Luchanko",
+      "M. West",
+      "L.J. Mooney",
+      "J. Ivankovic"
+    ]
+  },
+  "entry_picks": {
+    "2026": {
+      "1st": [
+        "LH"
+      ],
+      "2nd": [
+        "LH"
+      ],
+      "3rd": [
+        "LH"
+      ],
+      "4th": [
+        "LH"
+      ]
+    },
+    "2027": {
+      "1st": [
+        "LH"
+      ],
+      "2nd": [
+        "LH"
+      ],
+      "3rd": [
+        "LH"
+      ],
+      "4th": [
+        "LH"
+      ]
+    }
+  },
+  "minor_pro_picks": {
+    "1st": [
+      "LH"
+    ],
+    "2nd": [
+      "LH"
+    ],
+    "3rd": [
+      "LH"
+    ],
+    "4th": [
+      "LH"
+    ],
+    "5th": [
+      "LH"
+    ],
+    "6th": [
+      "LH"
+    ]
+  },
+  "code": "LH",
+  "waivers": []
+}

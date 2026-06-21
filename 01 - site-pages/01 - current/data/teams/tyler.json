@@ -1,0 +1,106 @@
+{
+  "id": "tyler",
+  "name": "Tyler",
+  "roster": {
+    "forwards": [
+      "J. Peterka",
+      "A. Svechnikov",
+      "J. Bratt",
+      "B. Hagel",
+      "M. Rantanen",
+      "G. Vilardi",
+      "P. Dorofeyev",
+      "J. Hyman",
+      "N. Kadri",
+      "N. Kucherov",
+      "M. Geekie",
+      "W. Johnston"
+    ],
+    "defence": [
+      "J. Chychrun",
+      "F. Hronek",
+      "E. Bouchard",
+      "Z. Wereknski",
+      "O. Power",
+      "M. Matheson"
+    ],
+    "goalies": [
+      "C. Blackwell",
+      "S. Skinner"
+    ],
+    "minor_pro": [
+      "E. Frank",
+      "C. Graf",
+      "O. Kapanen",
+      "F. Minten",
+      "A. Gritsyuk",
+      "A. Schmid"
+    ],
+    "prospects": [
+      "B. Kindel",
+      "C. Stramel",
+      "C. Stillman",
+      "Z. Ostapchuk",
+      "J. Perron",
+      "V. Heinola",
+      "N. Artamonov",
+      "I. Chernyshov",
+      "K. Ziemmer",
+      "S. O'Reilly",
+      "M. Wood",
+      "M. Hage",
+      "M. DiPietro",
+      "D. Reinbacher",
+      "B. Yager",
+      "C. Yakemchuk",
+      "Terrance",
+      "T. Stiga",
+      "M. Spence",
+      "A. Medvedev",
+      "M. Soogard",
+      "N. Danielson"
+    ]
+  },
+  "entry_picks": {
+    "2026": {
+      "1st": [],
+      "2nd": [],
+      "3rd": [
+        "TH"
+      ],
+      "4th": [
+        "TH"
+      ]
+    },
+    "2027": {
+      "1st": [],
+      "2nd": [],
+      "3rd": [],
+      "4th": [
+        "TH"
+      ]
+    }
+  },
+  "minor_pro_picks": {
+    "1st": [
+      "TH"
+    ],
+    "2nd": [
+      "TH"
+    ],
+    "3rd": [
+      "TH"
+    ],
+    "4th": [
+      "TH"
+    ],
+    "5th": [
+      "TH"
+    ],
+    "6th": [
+      "TH"
+    ]
+  },
+  "code": "TH",
+  "waivers": []
+}

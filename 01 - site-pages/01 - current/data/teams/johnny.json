@@ -1,0 +1,122 @@
+{
+  "id": "johnny",
+  "name": "Johnny",
+  "roster": {
+    "forwards": [
+      "J. McCann",
+      "B. Tkachuk",
+      "A. Tuch",
+      "R. Hintz",
+      "J. Guentzel",
+      "N. Ehlers",
+      "L. Stankoven",
+      "K. Connor",
+      "D. Guenther",
+      "M. Tkachuk",
+      "L. Draisaitl",
+      "T. Thompson"
+    ],
+    "defence": [
+      "B. Skjei",
+      "D. Toews",
+      "S. Ghostisbear",
+      "J. Morrissey",
+      "R. Andersson",
+      "G. Forsling"
+    ],
+    "goalies": [
+      "I. Sorokin",
+      "D. Wolf"
+    ],
+    "minor_pro": [
+      "M. Blumel",
+      "L. Merilainen",
+      "F. Nazar",
+      "Steeves",
+      "T.J. Hughes",
+      "J. Blomqvist"
+    ],
+    "prospects": [
+      "C. Barlow",
+      "D. Letourneau",
+      "Z. Parekh",
+      "C. Geekie",
+      "A. Levshunov",
+      "M. Samoskevich",
+      "S. Dickinson",
+      "S. Casey",
+      "Z. Buium",
+      "J. Doan",
+      "G. Perreault",
+      "L. Sahlin-Wallenius",
+      "S. Pastujov",
+      "C. Lambos",
+      "G. Gulyayev",
+      "T. Nelson",
+      "S. Cossa",
+      "J. Hagens",
+      "J. O'Brien",
+      "V. Eklund",
+      "J. Smith",
+      "C. Potter",
+      "J. Carbonneau",
+      "I. Ryabkin"
+    ]
+  },
+  "entry_picks": {
+    "2026": {
+      "1st": [
+        "JVD"
+      ],
+      "2nd": [
+        "KH"
+      ],
+      "3rd": [
+        "JVD"
+      ],
+      "4th": [
+        "JVD"
+      ]
+    },
+    "2027": {
+      "1st": [
+        "JVD"
+      ],
+      "2nd": [
+        "JVD",
+        "KH"
+      ],
+      "3rd": [
+        "JVD",
+        "RH"
+      ],
+      "4th": [
+        "JVD"
+      ]
+    }
+  },
+  "minor_pro_picks": {
+    "1st": [
+      "JVD"
+    ],
+    "2nd": [
+      "JVD"
+    ],
+    "3rd": [
+      "JVD"
+    ],
+    "4th": [
+      "JVD"
+    ],
+    "5th": [
+      "JVD"
+    ],
+    "6th": [
+      "JVD"
+    ]
+  },
+  "code": "JVD",
+  "waivers": [
+    "WW1"
+  ]
+}

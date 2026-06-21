@@ -200,7 +200,8 @@ main {
     
 }
 
-.name, img {
+.name img,
+img.name {
     
     height: 1.5rem;
     width: auto;
@@ -365,7 +366,8 @@ main {
     
     }
     
-    .name, img {
+    .name img,
+    img.name {
     
     height: 2rem;
     
@@ -398,4 +400,3 @@ main {
     }
     
 }
-

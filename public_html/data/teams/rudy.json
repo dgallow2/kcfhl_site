@@ -14,7 +14,7 @@
       "D. Mercer",
       "C. Keller",
       "C. McMicheal",
-      "A. Barkov"
+      "J. Miller"
     ],
     "defence": [
       "B. Clarke",
@@ -31,7 +31,7 @@
     "minor_pro": [
       "J. Fowler",
       "S. Malinski",
-      "S. Rinzel",
+      "S. Halliday",
       "I. Protas",
       "Sourdif",
       "B. Nadeau",
@@ -49,7 +49,7 @@
       "O. Moore",
       "J. Pelletier",
       "C. Hutson",
-      "J. Nesbitt",
+      "B. Danford",
       "B. Catton",
       "K. Helenius",
       "P. Martone",
@@ -62,7 +62,9 @@
   },
   "entry_picks": {
     "2026": {
-      "1st": [],
+      "1st": [
+        "RP"
+      ],
       "2nd": [
         "RH"
       ],
@@ -77,7 +79,9 @@
         "KH",
         "TH"
       ],
-      "2nd": [],
+      "2nd": [
+        "TH"
+      ],
       "3rd": [
         "KH",
         "TH"

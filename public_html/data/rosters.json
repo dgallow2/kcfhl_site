@@ -264,7 +264,7 @@
           "Z. Benson",
           "W. Eklund",
           "K. Fiala",
-          "J. Miller",
+          "A. Barkov",
           "T. Meier",
           "T. Wilson"
         ],
@@ -281,7 +281,7 @@
           "J. Markstrom"
         ],
         "minor_pro": [
-          "S. Halliday",
+          "S. Rinzel",
           "M. Shabanov",
           "M. Poitras",
           "E. Finnie",
@@ -305,7 +305,7 @@
           "C. Lindstrom",
           "A. Jiricek",
           "O. Bonk",
-          "B. Danford",
+          "J. Nesbitt",
           "K. Aitcheson",
           "J. Firkus"
         ]
@@ -313,7 +313,6 @@
       "entry_picks": {
         "2026": {
           "1st": [
-            "RP",
             "RH"
           ],
           "2nd": [
@@ -324,9 +323,7 @@
         },
         "2027": {
           "1st": [],
-          "2nd": [
-            "TH"
-          ],
+          "2nd": [],
           "3rd": [],
           "4th": []
         }
@@ -715,7 +712,7 @@
           "D. Mercer",
           "C. Keller",
           "C. McMicheal",
-          "A. Barkov"
+          "J. Miller"
         ],
         "defence": [
           "B. Clarke",
@@ -732,7 +729,7 @@
         "minor_pro": [
           "J. Fowler",
           "S. Malinski",
-          "S. Rinzel",
+          "S. Halliday",
           "I. Protas",
           "Sourdif",
           "B. Nadeau",
@@ -750,7 +747,7 @@
           "O. Moore",
           "J. Pelletier",
           "C. Hutson",
-          "J. Nesbitt",
+          "B. Danford",
           "B. Catton",
           "K. Helenius",
           "P. Martone",
@@ -763,7 +760,9 @@
       },
       "entry_picks": {
         "2026": {
-          "1st": [],
+          "1st": [
+            "RP"
+          ],
           "2nd": [
             "RH"
           ],
@@ -778,7 +777,9 @@
             "KH",
             "TH"
           ],
-          "2nd": [],
+          "2nd": [
+            "TH"
+          ],
           "3rd": [
             "KH",
             "TH"
@@ -964,7 +965,7 @@
         "minor_pro": [
           "B. Berard",
           "T. Miner",
-          "C. Koepke",
+          "R. Kantserov",
           "J. Hyrckowian",
           "J. Blake",
           "D. Hildeby"
@@ -1053,8 +1054,7 @@
       "waivers": [
         "WW1",
         "WW2",
-        "WW3",
-        "WW4"
+        "WW3"
       ]
     },
     {

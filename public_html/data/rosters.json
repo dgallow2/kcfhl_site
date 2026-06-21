@@ -1,7 +1,7 @@
 {
   "league": "Keeper Cup Fantasy Hockey League",
   "schema_version": "2.0",
-  "last_updated": "2026-06-20",
+  "last_updated": "2026-06-21",
   "slot_limits": {
     "forwards": 12,
     "defence": 6,
@@ -61,7 +61,7 @@
         "minor_pro": [
           "E. Wyttenbach",
           "R. Uftko",
-          "B. Nadeau",
+          null,
           "D. Barley",
           "A. Bump",
           "B. Bussi"
@@ -91,7 +91,8 @@
       "entry_picks": {
         "2026": {
           "1st": [
-            "LH"
+            "LH",
+            "TH"
           ],
           "2nd": [
             "LH"
@@ -720,7 +721,7 @@
           "L. Hutson",
           "S. Durzi",
           "J. Lacombe",
-          "A. Ekblad",
+          "J. Slavin",
           "T. Harley"
         ],
         "goalies": [
@@ -733,6 +734,7 @@
           "S. Rinzel",
           "I. Protas",
           "Sourdif",
+          "B. Nadeau",
           "J. Wallstedt"
         ],
         "prospects": [
@@ -760,9 +762,7 @@
       },
       "entry_picks": {
         "2026": {
-          "1st": [
-            "TH"
-          ],
+          "1st": [],
           "2nd": [
             "RH"
           ],
@@ -808,7 +808,9 @@
         ]
       },
       "code": "RH",
-      "waivers": []
+      "waivers": [
+        "WW1"
+      ]
     },
     {
       "id": "adam",
@@ -1075,7 +1077,7 @@
         "defence": [
           "T. Chabot",
           "N. Hanifin",
-          "J. Slavin",
+          "A. Ekblad",
           "P. Mintyukov",
           "J. Drysdale",
           "L. Hughes"
@@ -1169,8 +1171,7 @@
       "code": "SC",
       "waivers": [
         "WW1",
-        "WW2",
-        "WW3"
+        "WW2"
       ]
     }
   ]

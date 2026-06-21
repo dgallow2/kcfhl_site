@@ -19,7 +19,7 @@
     "defence": [
       "T. Chabot",
       "N. Hanifin",
-      "J. Slavin",
+      "A. Ekblad",
       "P. Mintyukov",
       "J. Drysdale",
       "L. Hughes"
@@ -113,7 +113,6 @@
   "code": "SC",
   "waivers": [
     "WW1",
-    "WW2",
-    "WW3"
+    "WW2"
   ]
 }

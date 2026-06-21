@@ -31,7 +31,7 @@
     "minor_pro": [
       "E. Wyttenbach",
       "R. Uftko",
-      "B. Nadeau",
+      null,
       "D. Barley",
       "A. Bump",
       "B. Bussi"
@@ -61,7 +61,8 @@
   "entry_picks": {
     "2026": {
       "1st": [
-        "LH"
+        "LH",
+        "TH"
       ],
       "2nd": [
         "LH"

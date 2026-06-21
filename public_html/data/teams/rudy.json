@@ -21,7 +21,7 @@
       "L. Hutson",
       "S. Durzi",
       "J. Lacombe",
-      "A. Ekblad",
+      "J. Slavin",
       "T. Harley"
     ],
     "goalies": [
@@ -34,6 +34,7 @@
       "S. Rinzel",
       "I. Protas",
       "Sourdif",
+      "B. Nadeau",
       "J. Wallstedt"
     ],
     "prospects": [
@@ -61,9 +62,7 @@
   },
   "entry_picks": {
     "2026": {
-      "1st": [
-        "TH"
-      ],
+      "1st": [],
       "2nd": [
         "RH"
       ],
@@ -109,5 +108,7 @@
     ]
   },
   "code": "RH",
-  "waivers": []
+  "waivers": [
+    "WW1"
+  ]
 }

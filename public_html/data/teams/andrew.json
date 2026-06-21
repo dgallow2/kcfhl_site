@@ -14,13 +14,13 @@
       "D. Cozens",
       "J. Roslovic",
       "T. Teravainen",
-      "Z. Benson"
+      "B. Marchand"
     ],
     "defence": [
       "J. Petry",
       "J. Walman",
       "B. Burns",
-      "P. Broberg",
+      "K. Miller",
       "C. York",
       "J.J. Moser"
     ],
@@ -53,8 +53,8 @@
       "G. Trikozov",
       "M. Schaefer",
       "R. Chesley",
-      "O. Pickering",
-      "K. Aitcheson",
+      "S. Nemec",
+      "C. Kyrou",
       "T. Niemela",
       "K. Lind",
       "S. Boumedienne",
@@ -67,7 +67,9 @@
       "1st": [
         "AE"
       ],
-      "2nd": [],
+      "2nd": [
+        "JVD"
+      ],
       "3rd": [
         "DG"
       ],

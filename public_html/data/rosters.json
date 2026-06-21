@@ -261,7 +261,7 @@
           "T. Terry",
           "S. Stamkos",
           "D. Batherson",
-          "B. Marchand",
+          "Z. Benson",
           "W. Eklund",
           "K. Fiala",
           "J. Miller",
@@ -274,7 +274,7 @@
           "D. Raddysh",
           "J. Faulk",
           "D. Orlov",
-          "K. Miller"
+          "P. Broberg"
         ],
         "goalies": [
           "J. Swayman",
@@ -293,7 +293,7 @@
           "T. Luneau",
           "V. Nestrasil",
           "R. Greene",
-          "S. Nemec",
+          "O. Pickering",
           "P. Andreyanov",
           "I. Miroshnichenko",
           "C. Eiserman",
@@ -306,7 +306,7 @@
           "A. Jiricek",
           "O. Bonk",
           "B. Danford",
-          "C. Kyrou",
+          "K. Aitcheson",
           "J. Firkus"
         ]
       },
@@ -317,7 +317,6 @@
             "RH"
           ],
           "2nd": [
-            "JVD",
             "TH"
           ],
           "3rd": [],
@@ -369,13 +368,13 @@
           "D. Cozens",
           "J. Roslovic",
           "T. Teravainen",
-          "Z. Benson"
+          "B. Marchand"
         ],
         "defence": [
           "J. Petry",
           "J. Walman",
           "B. Burns",
-          "P. Broberg",
+          "K. Miller",
           "C. York",
           "J.J. Moser"
         ],
@@ -408,8 +407,8 @@
           "G. Trikozov",
           "M. Schaefer",
           "R. Chesley",
-          "O. Pickering",
-          "K. Aitcheson",
+          "S. Nemec",
+          "C. Kyrou",
           "T. Niemela",
           "K. Lind",
           "S. Boumedienne",
@@ -422,7 +421,9 @@
           "1st": [
             "AE"
           ],
-          "2nd": [],
+          "2nd": [
+            "JVD"
+          ],
           "3rd": [
             "DG"
           ],

@@ -1,0 +1,117 @@
+{
+  "id": "andrew",
+  "name": "Andrew",
+  "roster": {
+    "forwards": [
+      "S. Pinto",
+      "I. Barbashev",
+      "A. Lehkonen",
+      "D. Voronkov",
+      "C. Giroux",
+      "R. Nugent-Hopkins",
+      "A. Lundell",
+      "P. Buchnevich",
+      "D. Cozens",
+      "J. Roslovic",
+      "T. Teravainen",
+      "Z. Benson"
+    ],
+    "defence": [
+      "J. Petry",
+      "J. Walman",
+      "B. Burns",
+      "P. Broberg",
+      "C. York",
+      "J.J. Moser"
+    ],
+    "goalies": [
+      "S. Wedgewood",
+      "A. Hill"
+    ],
+    "minor_pro": [
+      "C. Lindbom",
+      "M. Holinka",
+      "E. Soderblom",
+      "R. Harvey-Pinard",
+      "M. Chaffee",
+      "D. Cooley"
+    ],
+    "prospects": [
+      "S. Bowers",
+      "N. Beaudin",
+      "C. Savoie",
+      "G. White",
+      "B.O. Groulx",
+      "R. Lavoie",
+      "I. Ratcliffe",
+      "D. Goyette",
+      "O. Olausson",
+      "T. Boucher",
+      "A. Perevalov",
+      "X. Bourgault",
+      "L. Edmonds",
+      "G. Trikozov",
+      "M. Schaefer",
+      "R. Chesley",
+      "O. Pickering",
+      "K. Aitcheson",
+      "T. Niemela",
+      "K. Lind",
+      "S. Boumedienne",
+      "F. Mesar",
+      "F. Pinelli"
+    ]
+  },
+  "entry_picks": {
+    "2026": {
+      "1st": [
+        "AE"
+      ],
+      "2nd": [],
+      "3rd": [
+        "DG"
+      ],
+      "4th": [
+        "AE",
+        "KH"
+      ]
+    },
+    "2027": {
+      "1st": [
+        "AE"
+      ],
+      "2nd": [
+        "RP"
+      ],
+      "3rd": [
+        "AE"
+      ],
+      "4th": [
+        "AE",
+        "KH"
+      ]
+    }
+  },
+  "minor_pro_picks": {
+    "1st": [
+      "AE"
+    ],
+    "2nd": [
+      "AE"
+    ],
+    "3rd": [
+      "AE"
+    ],
+    "4th": [
+      "AE"
+    ],
+    "5th": [
+      "AE"
+    ],
+    "6th": [
+      "AE"
+    ]
+  },
+  "code": "AE",
+  "waivers": []
+}

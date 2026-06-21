@@ -1,0 +1,119 @@
+{
+  "id": "shawn",
+  "name": "Shawn",
+  "roster": {
+    "forwards": [
+      "L. Cooley",
+      "A. Fantilli",
+      "J. Eriksson Ek",
+      "A. Lafreniere",
+      "R. Donato",
+      "M. Coronato",
+      "K. Johnson",
+      "J. Slafkovsky",
+      "J. Quinn",
+      "M. Stone",
+      "M. Rossi",
+      "K. Kakko"
+    ],
+    "defence": [
+      "T. Chabot",
+      "N. Hanifin",
+      "J. Slavin",
+      "P. Mintyukov",
+      "J. Drysdale",
+      "L. Hughes"
+    ],
+    "goalies": [
+      "K. Vejmelka",
+      "P. Kotchetkov"
+    ],
+    "minor_pro": [
+      "R. Kerins",
+      "B. Brisson",
+      "I. Demidov",
+      "A. Nikishin",
+      "Z. Jones",
+      "J. Greaves"
+    ],
+    "prospects": [
+      "N. Gaucher",
+      "L. Ohgren",
+      "R. Heidt",
+      "Z. Bolduc",
+      "M. Brandsegg-Nygard",
+      "A. Sandin-Pellika",
+      "O. Zellweger",
+      "B. Gaudreau",
+      "D. Simishev",
+      "D. Levi",
+      "D. Mateychuk",
+      "F. Lysell",
+      "J. Lekkerimaki",
+      "A. Cristall",
+      "W. Smith",
+      "I. Howard",
+      "A. Frondell",
+      "C. Bear",
+      "A. Zharovsky",
+      "L. Hensler"
+    ]
+  },
+  "entry_picks": {
+    "2026": {
+      "1st": [
+        "SC"
+      ],
+      "2nd": [
+        "SC",
+        "AB"
+      ],
+      "3rd": [
+        "SC"
+      ],
+      "4th": [
+        "SC"
+      ]
+    },
+    "2027": {
+      "1st": [
+        "SC"
+      ],
+      "2nd": [
+        "SC"
+      ],
+      "3rd": [
+        "SC"
+      ],
+      "4th": [
+        "SC"
+      ]
+    }
+  },
+  "minor_pro_picks": {
+    "1st": [
+      "SC"
+    ],
+    "2nd": [
+      "SC"
+    ],
+    "3rd": [
+      "SC"
+    ],
+    "4th": [
+      "SC"
+    ],
+    "5th": [
+      "SC"
+    ],
+    "6th": [
+      "SC"
+    ]
+  },
+  "code": "SC",
+  "waivers": [
+    "WW1",
+    "WW2",
+    "WW3"
+  ]
+}

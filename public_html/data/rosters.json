@@ -1,0 +1,1177 @@
+{
+  "league": "Keeper Cup Fantasy Hockey League",
+  "schema_version": "2.0",
+  "last_updated": "2026-06-20",
+  "slot_limits": {
+    "forwards": 12,
+    "defence": 6,
+    "goalies": 2,
+    "minor_pro": 6,
+    "prospects": 24,
+    "entry_years": [
+      "2026",
+      "2027"
+    ],
+    "entry_rounds": [
+      "1st",
+      "2nd",
+      "3rd",
+      "4th"
+    ],
+    "minor_pro_rounds": [
+      "1st",
+      "2nd",
+      "3rd",
+      "4th",
+      "5th",
+      "6th"
+    ]
+  },
+  "teams": [
+    {
+      "id": "levi",
+      "name": "Levi",
+      "roster": {
+        "forwards": [
+          "J. Kyrou",
+          "T. Zegras",
+          "M. Necas",
+          "N. MacKinnon",
+          "A. Panarin",
+          "M. Boldy",
+          "J. Robertson",
+          "J. Hughes",
+          "A. Kopitar",
+          "M. Zibanejad",
+          "A. Ovechkin",
+          "M. Marner"
+        ],
+        "defence": [
+          "D. Hamilton",
+          "E. Karlsson",
+          "M. Lohrie",
+          "C. Makar",
+          "A. Fox",
+          "S. Theodore"
+        ],
+        "goalies": [
+          "I. Shesterkin",
+          "J. Oettinger"
+        ],
+        "minor_pro": [
+          "E. Wyttenbach",
+          "R. Uftko",
+          "B. Nadeau",
+          "D. Barley",
+          "A. Bump",
+          "B. Bussi"
+        ],
+        "prospects": [
+          "R. Salo",
+          "S. Poulin",
+          "E. Miedema",
+          "J. Perreault",
+          "A. Suniev",
+          "H. Mews",
+          "C. Cuelemens",
+          "V. Soderstrom",
+          "C. Ritchie",
+          "C. Guindon",
+          "S. Gill",
+          "D. Wakely",
+          "A. Silayev",
+          "L. Greentree",
+          "C. Beaudoin",
+          "J. Luchanko",
+          "M. West",
+          "L.J. Mooney",
+          "J. Ivankovic"
+        ]
+      },
+      "entry_picks": {
+        "2026": {
+          "1st": [
+            "LH"
+          ],
+          "2nd": [
+            "LH"
+          ],
+          "3rd": [
+            "LH"
+          ],
+          "4th": [
+            "LH"
+          ]
+        },
+        "2027": {
+          "1st": [
+            "LH"
+          ],
+          "2nd": [
+            "LH"
+          ],
+          "3rd": [
+            "LH"
+          ],
+          "4th": [
+            "LH"
+          ]
+        }
+      },
+      "minor_pro_picks": {
+        "1st": [
+          "LH"
+        ],
+        "2nd": [
+          "LH"
+        ],
+        "3rd": [
+          "LH"
+        ],
+        "4th": [
+          "LH"
+        ],
+        "5th": [
+          "LH"
+        ],
+        "6th": [
+          "LH"
+        ]
+      },
+      "code": "LH",
+      "waivers": []
+    },
+    {
+      "id": "ryan",
+      "name": "Ryan",
+      "roster": {
+        "forwards": [
+          "B. Horvat",
+          "J. Tavares",
+          "S. Reinhart",
+          "N. Schmaltz",
+          "A. Debrincat",
+          "M. Scheifele",
+          "E. Malkin",
+          "W. Nylander",
+          "K. Kaprizov",
+          "C. Perfetti",
+          "F. Forsberg",
+          "C. Caufield"
+        ],
+        "defence": [
+          "N. Pionk",
+          "B. Montour",
+          "D. Doughty",
+          "N. Dobson",
+          "R. Josi",
+          "M. Reilly"
+        ],
+        "goalies": [
+          "Ullmark",
+          "L. Thompson"
+        ],
+        "minor_pro": [
+          "E. Heineman",
+          "A. Silovs",
+          "J. Brazeau",
+          "A. Turcotte",
+          "O. Back",
+          "J. Dobes"
+        ],
+        "prospects": [
+          "Z. Dean",
+          "D. Jiricek",
+          "M. Gridin",
+          "L. Bischel",
+          "J. Mysak",
+          "L. Pettersson",
+          "C. Gauthier",
+          "E. Cowan",
+          "G. Denisenko",
+          "R. Suzuki",
+          "R. Tufte",
+          "M. Vanacker",
+          "M. Bourque",
+          "N. Foote",
+          "T. Parascak",
+          "T. Iginla",
+          "B. Sennecke",
+          "A. Raty"
+        ]
+      },
+      "entry_picks": {
+        "2026": {
+          "1st": [],
+          "2nd": [
+            "RP"
+          ],
+          "3rd": [
+            "RP"
+          ],
+          "4th": [
+            "RP"
+          ]
+        },
+        "2027": {
+          "1st": [
+            "RP"
+          ],
+          "2nd": [],
+          "3rd": [
+            "RP"
+          ],
+          "4th": [
+            "RP"
+          ]
+        }
+      },
+      "minor_pro_picks": {
+        "1st": [
+          "RP"
+        ],
+        "2nd": [
+          "RP"
+        ],
+        "3rd": [
+          "RP"
+        ],
+        "4th": [
+          "RP"
+        ],
+        "5th": [
+          "RP"
+        ],
+        "6th": [
+          "RP"
+        ]
+      },
+      "code": "RP",
+      "waivers": []
+    },
+    {
+      "id": "kenny",
+      "name": "Ken",
+      "roster": {
+        "forwards": [
+          "M. Beniers",
+          "D. Larkin",
+          "T. Hertl",
+          "T. Terry",
+          "S. Stamkos",
+          "D. Batherson",
+          "B. Marchand",
+          "W. Eklund",
+          "K. Fiala",
+          "J. Miller",
+          "T. Meier",
+          "T. Wilson"
+        ],
+        "defence": [
+          "S. Edvinsson",
+          "B. Byram",
+          "D. Raddysh",
+          "J. Faulk",
+          "D. Orlov",
+          "K. Miller"
+        ],
+        "goalies": [
+          "J. Swayman",
+          "J. Markstrom"
+        ],
+        "minor_pro": [
+          "S. Halliday",
+          "M. Shabanov",
+          "M. Poitras",
+          "E. Finnie",
+          "B. Bowman",
+          "S. Murashov"
+        ],
+        "prospects": [
+          "R. Mrtka",
+          "T. Luneau",
+          "V. Nestrasil",
+          "R. Greene",
+          "S. Nemec",
+          "P. Andreyanov",
+          "I. Miroshnichenko",
+          "C. Eiserman",
+          "S. Honzek",
+          "B. Lambert",
+          "I. Rosen",
+          "H. Haight",
+          "B. Cootes",
+          "C. Lindstrom",
+          "A. Jiricek",
+          "O. Bonk",
+          "B. Danford",
+          "C. Kyrou",
+          "J. Firkus"
+        ]
+      },
+      "entry_picks": {
+        "2026": {
+          "1st": [
+            "RP",
+            "RH"
+          ],
+          "2nd": [
+            "JVD",
+            "TH"
+          ],
+          "3rd": [],
+          "4th": []
+        },
+        "2027": {
+          "1st": [],
+          "2nd": [
+            "TH"
+          ],
+          "3rd": [],
+          "4th": []
+        }
+      },
+      "minor_pro_picks": {
+        "1st": [],
+        "2nd": [
+          "KH"
+        ],
+        "3rd": [
+          "KH"
+        ],
+        "4th": [
+          "KH"
+        ],
+        "5th": [
+          "KH"
+        ],
+        "6th": [
+          "KH"
+        ]
+      },
+      "code": "KH",
+      "waivers": []
+    },
+    {
+      "id": "andrew",
+      "name": "Andrew",
+      "roster": {
+        "forwards": [
+          "S. Pinto",
+          "I. Barbashev",
+          "A. Lehkonen",
+          "D. Voronkov",
+          "C. Giroux",
+          "R. Nugent-Hopkins",
+          "A. Lundell",
+          "P. Buchnevich",
+          "D. Cozens",
+          "J. Roslovic",
+          "T. Teravainen",
+          "Z. Benson"
+        ],
+        "defence": [
+          "J. Petry",
+          "J. Walman",
+          "B. Burns",
+          "P. Broberg",
+          "C. York",
+          "J.J. Moser"
+        ],
+        "goalies": [
+          "S. Wedgewood",
+          "A. Hill"
+        ],
+        "minor_pro": [
+          "C. Lindbom",
+          "M. Holinka",
+          "E. Soderblom",
+          "R. Harvey-Pinard",
+          "M. Chaffee",
+          "D. Cooley"
+        ],
+        "prospects": [
+          "S. Bowers",
+          "N. Beaudin",
+          "C. Savoie",
+          "G. White",
+          "B.O. Groulx",
+          "R. Lavoie",
+          "I. Ratcliffe",
+          "D. Goyette",
+          "O. Olausson",
+          "T. Boucher",
+          "A. Perevalov",
+          "X. Bourgault",
+          "L. Edmonds",
+          "G. Trikozov",
+          "M. Schaefer",
+          "R. Chesley",
+          "O. Pickering",
+          "K. Aitcheson",
+          "T. Niemela",
+          "K. Lind",
+          "S. Boumedienne",
+          "F. Mesar",
+          "F. Pinelli"
+        ]
+      },
+      "entry_picks": {
+        "2026": {
+          "1st": [
+            "AE"
+          ],
+          "2nd": [],
+          "3rd": [
+            "DG"
+          ],
+          "4th": [
+            "AE",
+            "KH"
+          ]
+        },
+        "2027": {
+          "1st": [
+            "AE"
+          ],
+          "2nd": [
+            "RP"
+          ],
+          "3rd": [
+            "AE"
+          ],
+          "4th": [
+            "AE",
+            "KH"
+          ]
+        }
+      },
+      "minor_pro_picks": {
+        "1st": [
+          "AE"
+        ],
+        "2nd": [
+          "AE"
+        ],
+        "3rd": [
+          "AE"
+        ],
+        "4th": [
+          "AE"
+        ],
+        "5th": [
+          "AE"
+        ],
+        "6th": [
+          "AE"
+        ]
+      },
+      "code": "AE",
+      "waivers": []
+    },
+    {
+      "id": "johnny",
+      "name": "Johnny",
+      "roster": {
+        "forwards": [
+          "J. McCann",
+          "B. Tkachuk",
+          "A. Tuch",
+          "R. Hintz",
+          "J. Guentzel",
+          "N. Ehlers",
+          "L. Stankoven",
+          "K. Connor",
+          "D. Guenther",
+          "M. Tkachuk",
+          "L. Draisaitl",
+          "T. Thompson"
+        ],
+        "defence": [
+          "B. Skjei",
+          "D. Toews",
+          "S. Ghostisbear",
+          "J. Morrissey",
+          "R. Andersson",
+          "G. Forsling"
+        ],
+        "goalies": [
+          "I. Sorokin",
+          "D. Wolf"
+        ],
+        "minor_pro": [
+          "M. Blumel",
+          "L. Merilainen",
+          "F. Nazar",
+          "Steeves",
+          "T.J. Hughes",
+          "J. Blomqvist"
+        ],
+        "prospects": [
+          "C. Barlow",
+          "D. Letourneau",
+          "Z. Parekh",
+          "C. Geekie",
+          "A. Levshunov",
+          "M. Samoskevich",
+          "S. Dickinson",
+          "S. Casey",
+          "Z. Buium",
+          "J. Doan",
+          "G. Perreault",
+          "L. Sahlin-Wallenius",
+          "S. Pastujov",
+          "C. Lambos",
+          "G. Gulyayev",
+          "T. Nelson",
+          "S. Cossa",
+          "J. Hagens",
+          "J. O'Brien",
+          "V. Eklund",
+          "J. Smith",
+          "C. Potter",
+          "J. Carbonneau",
+          "I. Ryabkin"
+        ]
+      },
+      "entry_picks": {
+        "2026": {
+          "1st": [
+            "JVD"
+          ],
+          "2nd": [
+            "KH"
+          ],
+          "3rd": [
+            "JVD"
+          ],
+          "4th": [
+            "JVD"
+          ]
+        },
+        "2027": {
+          "1st": [
+            "JVD"
+          ],
+          "2nd": [
+            "JVD",
+            "KH"
+          ],
+          "3rd": [
+            "JVD",
+            "RH"
+          ],
+          "4th": [
+            "JVD"
+          ]
+        }
+      },
+      "minor_pro_picks": {
+        "1st": [
+          "JVD"
+        ],
+        "2nd": [
+          "JVD"
+        ],
+        "3rd": [
+          "JVD"
+        ],
+        "4th": [
+          "JVD"
+        ],
+        "5th": [
+          "JVD"
+        ],
+        "6th": [
+          "JVD"
+        ]
+      },
+      "code": "JVD",
+      "waivers": [
+        "WW1"
+      ]
+    },
+    {
+      "id": "tyler",
+      "name": "Tyler",
+      "roster": {
+        "forwards": [
+          "J. Peterka",
+          "A. Svechnikov",
+          "J. Bratt",
+          "B. Hagel",
+          "M. Rantanen",
+          "G. Vilardi",
+          "P. Dorofeyev",
+          "J. Hyman",
+          "N. Kadri",
+          "N. Kucherov",
+          "M. Geekie",
+          "W. Johnston"
+        ],
+        "defence": [
+          "J. Chychrun",
+          "F. Hronek",
+          "E. Bouchard",
+          "Z. Wereknski",
+          "O. Power",
+          "M. Matheson"
+        ],
+        "goalies": [
+          "C. Blackwell",
+          "S. Skinner"
+        ],
+        "minor_pro": [
+          "E. Frank",
+          "C. Graf",
+          "O. Kapanen",
+          "F. Minten",
+          "A. Gritsyuk",
+          "A. Schmid"
+        ],
+        "prospects": [
+          "B. Kindel",
+          "C. Stramel",
+          "C. Stillman",
+          "Z. Ostapchuk",
+          "J. Perron",
+          "V. Heinola",
+          "N. Artamonov",
+          "I. Chernyshov",
+          "K. Ziemmer",
+          "S. O'Reilly",
+          "M. Wood",
+          "M. Hage",
+          "M. DiPietro",
+          "D. Reinbacher",
+          "B. Yager",
+          "C. Yakemchuk",
+          "Terrance",
+          "T. Stiga",
+          "M. Spence",
+          "A. Medvedev",
+          "M. Soogard",
+          "N. Danielson"
+        ]
+      },
+      "entry_picks": {
+        "2026": {
+          "1st": [],
+          "2nd": [],
+          "3rd": [
+            "TH"
+          ],
+          "4th": [
+            "TH"
+          ]
+        },
+        "2027": {
+          "1st": [],
+          "2nd": [],
+          "3rd": [],
+          "4th": [
+            "TH"
+          ]
+        }
+      },
+      "minor_pro_picks": {
+        "1st": [
+          "TH"
+        ],
+        "2nd": [
+          "TH"
+        ],
+        "3rd": [
+          "TH"
+        ],
+        "4th": [
+          "TH"
+        ],
+        "5th": [
+          "TH"
+        ],
+        "6th": [
+          "TH"
+        ]
+      },
+      "code": "TH",
+      "waivers": []
+    },
+    {
+      "id": "rudy",
+      "name": "Rudy",
+      "roster": {
+        "forwards": [
+          "M. Celebrini",
+          "J. Norris",
+          "K. Marchenko",
+          "B. Nelson",
+          "M. Knies",
+          "R. Thomas",
+          "S. Aho",
+          "L. Carlson",
+          "D. Mercer",
+          "C. Keller",
+          "C. McMicheal",
+          "A. Barkov"
+        ],
+        "defence": [
+          "B. Clarke",
+          "L. Hutson",
+          "S. Durzi",
+          "J. Lacombe",
+          "A. Ekblad",
+          "T. Harley"
+        ],
+        "goalies": [
+          "T. Demko",
+          "L. Dostal"
+        ],
+        "minor_pro": [
+          "J. Fowler",
+          "S. Malinski",
+          "S. Rinzel",
+          "I. Protas",
+          "Sourdif",
+          "J. Wallstedt"
+        ],
+        "prospects": [
+          "C. Reschny",
+          "Q. Musty",
+          "A. Kiviharju",
+          "L. Dragicevic",
+          "T. Connelly",
+          "J. Hrabel",
+          "N. Lardis",
+          "R. McGroarty",
+          "O. Moore",
+          "J. Pelletier",
+          "C. Hutson",
+          "J. Nesbitt",
+          "B. Catton",
+          "K. Helenius",
+          "P. Martone",
+          "L. Lakovic",
+          "R. Lee",
+          "W. Moore",
+          "C. Reid",
+          "C. Desnoyers"
+        ]
+      },
+      "entry_picks": {
+        "2026": {
+          "1st": [
+            "TH"
+          ],
+          "2nd": [
+            "RH"
+          ],
+          "3rd": [
+            "RH"
+          ],
+          "4th": []
+        },
+        "2027": {
+          "1st": [
+            "RH",
+            "KH",
+            "TH"
+          ],
+          "2nd": [],
+          "3rd": [
+            "KH",
+            "TH"
+          ],
+          "4th": [
+            "RH"
+          ]
+        }
+      },
+      "minor_pro_picks": {
+        "1st": [
+          "RH"
+        ],
+        "2nd": [
+          "RH"
+        ],
+        "3rd": [
+          "RH"
+        ],
+        "4th": [
+          "RH"
+        ],
+        "5th": [
+          "RH"
+        ],
+        "6th": [
+          "RH"
+        ]
+      },
+      "code": "RH",
+      "waivers": []
+    },
+    {
+      "id": "adam",
+      "name": "Adam",
+      "roster": {
+        "forwards": [
+          "N. Suzuki",
+          "Bertuzzi",
+          "T. Stutzle",
+          "D. Strome",
+          "C. Verhaeghe",
+          "J. Eichel",
+          "M. Barzal",
+          "C. McDavid",
+          "N. Hischier",
+          "M. Mitchkov",
+          "Q. Byfield",
+          "T. Konecny"
+        ],
+        "defence": [
+          "M. Heiskanen",
+          "J. Sanderson",
+          "R. Dahlin",
+          "J. Carlson",
+          "C. McAvoy",
+          "S. Jones"
+        ],
+        "goalies": [
+          "S. Bobrovsky",
+          "F. Gustavsson"
+        ],
+        "minor_pro": [
+          "M. Tsyplakov",
+          "H. Brzustewicz",
+          "M. Khusnutdinov",
+          "D. Helleson",
+          "Y. Askarov",
+          "H. Shepard"
+        ],
+        "prospects": [
+          "C. Lucius",
+          "M. Savoie",
+          "D. James",
+          "S. Morrow",
+          "J. Kemell",
+          "Y. Surin",
+          "Filmon",
+          "B. Othmann",
+          "F. Svechkov",
+          "O. Wiesblatt",
+          "L. Mailloux",
+          "D. Dvorsky",
+          "J. Nyman",
+          "M. Kasper",
+          "T. Willander",
+          "N. Ostlund",
+          "J. Snuggerud",
+          "O. Stenberg",
+          "S. Boisvert",
+          "M. Misa",
+          "R. McQueen",
+          "W. Horcoff",
+          "M. Gastrin"
+        ]
+      },
+      "entry_picks": {
+        "2026": {
+          "1st": [
+            "AB"
+          ],
+          "2nd": [],
+          "3rd": [
+            "AB"
+          ],
+          "4th": [
+            "AB"
+          ]
+        },
+        "2027": {
+          "1st": [
+            "AB"
+          ],
+          "2nd": [
+            "AB"
+          ],
+          "3rd": [
+            "AB"
+          ],
+          "4th": [
+            "AB"
+          ]
+        }
+      },
+      "minor_pro_picks": {
+        "1st": [
+          "AB"
+        ],
+        "2nd": [
+          "AB"
+        ],
+        "3rd": [
+          "AB"
+        ],
+        "4th": [
+          "AB"
+        ],
+        "5th": [
+          "AB"
+        ],
+        "6th": [
+          "AB"
+        ]
+      },
+      "code": "AB",
+      "waivers": [
+        "WW1",
+        "WW2"
+      ]
+    },
+    {
+      "id": "dylan",
+      "name": "Dylan",
+      "roster": {
+        "forwards": [
+          "C. Bedard",
+          "A. Matthews",
+          "A. Kempe",
+          "S. Crosby",
+          "S. Jarvis",
+          "D. Holloway",
+          "L. Raymond",
+          "M. McTavish",
+          "E. Pettersson",
+          "D. Pastrnak",
+          "B. Point",
+          "S. Wright"
+        ],
+        "defence": [
+          "Q. Hughes",
+          "V. Hedman",
+          "V. Dunn",
+          "M Seider",
+          "M. Sergachev",
+          "B. Faber"
+        ],
+        "goalies": [
+          "A. Vasilevsky",
+          "C. Hellebuyck"
+        ],
+        "minor_pro": [
+          "B. Berard",
+          "T. Miner",
+          "C. Koepke",
+          "J. Hyrckowian",
+          "J. Blake",
+          "D. Hildeby"
+        ],
+        "prospects": [
+          "A. Heponiemi",
+          "E. Sale",
+          "E. Hemming",
+          "J. Kulich",
+          "G. Brindley",
+          "D. Duke",
+          "V. Kravstov",
+          "A. Thomas",
+          "H. Lapierre",
+          "N. Gunler",
+          "Z. L'Heureux",
+          "D. But",
+          "R. Leonard",
+          "D. Yurov",
+          "T. Augustine",
+          "O. Beck",
+          "L. Del Bel Belluz",
+          "L. Tuch",
+          "T. Stockselius",
+          "B. Zonnon",
+          "C. Cerrato"
+        ]
+      },
+      "entry_picks": {
+        "2026": {
+          "1st": [
+            "DG",
+            "KH"
+          ],
+          "2nd": [
+            "DG",
+            "AE"
+          ],
+          "3rd": [
+            "AE",
+            "KH"
+          ],
+          "4th": [
+            "DG",
+            "RH"
+          ]
+        },
+        "2027": {
+          "1st": [
+            "DG"
+          ],
+          "2nd": [
+            "DG",
+            "RH"
+          ],
+          "3rd": [
+            "DG"
+          ],
+          "4th": [
+            "DG"
+          ]
+        }
+      },
+      "minor_pro_picks": {
+        "1st": [
+          "KH",
+          "DG"
+        ],
+        "2nd": [
+          "DG"
+        ],
+        "3rd": [
+          "DG"
+        ],
+        "4th": [
+          "DG"
+        ],
+        "5th": [
+          "DG"
+        ],
+        "6th": [
+          "DG"
+        ]
+      },
+      "code": "DG",
+      "waivers": [
+        "WW1",
+        "WW2",
+        "WW3",
+        "WW4"
+      ]
+    },
+    {
+      "id": "shawn",
+      "name": "Shawn",
+      "roster": {
+        "forwards": [
+          "L. Cooley",
+          "A. Fantilli",
+          "J. Eriksson Ek",
+          "A. Lafreniere",
+          "R. Donato",
+          "M. Coronato",
+          "K. Johnson",
+          "J. Slafkovsky",
+          "J. Quinn",
+          "M. Stone",
+          "M. Rossi",
+          "K. Kakko"
+        ],
+        "defence": [
+          "T. Chabot",
+          "N. Hanifin",
+          "J. Slavin",
+          "P. Mintyukov",
+          "J. Drysdale",
+          "L. Hughes"
+        ],
+        "goalies": [
+          "K. Vejmelka",
+          "P. Kotchetkov"
+        ],
+        "minor_pro": [
+          "R. Kerins",
+          "B. Brisson",
+          "I. Demidov",
+          "A. Nikishin",
+          "Z. Jones",
+          "J. Greaves"
+        ],
+        "prospects": [
+          "N. Gaucher",
+          "L. Ohgren",
+          "R. Heidt",
+          "Z. Bolduc",
+          "M. Brandsegg-Nygard",
+          "A. Sandin-Pellika",
+          "O. Zellweger",
+          "B. Gaudreau",
+          "D. Simishev",
+          "D. Levi",
+          "D. Mateychuk",
+          "F. Lysell",
+          "J. Lekkerimaki",
+          "A. Cristall",
+          "W. Smith",
+          "I. Howard",
+          "A. Frondell",
+          "C. Bear",
+          "A. Zharovsky",
+          "L. Hensler"
+        ]
+      },
+      "entry_picks": {
+        "2026": {
+          "1st": [
+            "SC"
+          ],
+          "2nd": [
+            "SC",
+            "AB"
+          ],
+          "3rd": [
+            "SC"
+          ],
+          "4th": [
+            "SC"
+          ]
+        },
+        "2027": {
+          "1st": [
+            "SC"
+          ],
+          "2nd": [
+            "SC"
+          ],
+          "3rd": [
+            "SC"
+          ],
+          "4th": [
+            "SC"
+          ]
+        }
+      },
+      "minor_pro_picks": {
+        "1st": [
+          "SC"
+        ],
+        "2nd": [
+          "SC"
+        ],
+        "3rd": [
+          "SC"
+        ],
+        "4th": [
+          "SC"
+        ],
+        "5th": [
+          "SC"
+        ],
+        "6th": [
+          "SC"
+        ]
+      },
+      "code": "SC",
+      "waivers": [
+        "WW1",
+        "WW2",
+        "WW3"
+      ]
+    }
+  ]
+}

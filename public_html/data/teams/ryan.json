@@ -1,0 +1,108 @@
+{
+  "id": "ryan",
+  "name": "Ryan",
+  "roster": {
+    "forwards": [
+      "B. Horvat",
+      "J. Tavares",
+      "S. Reinhart",
+      "N. Schmaltz",
+      "A. Debrincat",
+      "M. Scheifele",
+      "E. Malkin",
+      "W. Nylander",
+      "K. Kaprizov",
+      "C. Perfetti",
+      "F. Forsberg",
+      "C. Caufield"
+    ],
+    "defence": [
+      "N. Pionk",
+      "B. Montour",
+      "D. Doughty",
+      "N. Dobson",
+      "R. Josi",
+      "M. Reilly"
+    ],
+    "goalies": [
+      "Ullmark",
+      "L. Thompson"
+    ],
+    "minor_pro": [
+      "E. Heineman",
+      "A. Silovs",
+      "J. Brazeau",
+      "A. Turcotte",
+      "O. Back",
+      "J. Dobes"
+    ],
+    "prospects": [
+      "Z. Dean",
+      "D. Jiricek",
+      "M. Gridin",
+      "L. Bischel",
+      "J. Mysak",
+      "L. Pettersson",
+      "C. Gauthier",
+      "E. Cowan",
+      "G. Denisenko",
+      "R. Suzuki",
+      "R. Tufte",
+      "M. Vanacker",
+      "M. Bourque",
+      "N. Foote",
+      "T. Parascak",
+      "T. Iginla",
+      "B. Sennecke",
+      "A. Raty"
+    ]
+  },
+  "entry_picks": {
+    "2026": {
+      "1st": [],
+      "2nd": [
+        "RP"
+      ],
+      "3rd": [
+        "RP"
+      ],
+      "4th": [
+        "RP"
+      ]
+    },
+    "2027": {
+      "1st": [
+        "RP"
+      ],
+      "2nd": [],
+      "3rd": [
+        "RP"
+      ],
+      "4th": [
+        "RP"
+      ]
+    }
+  },
+  "minor_pro_picks": {
+    "1st": [
+      "RP"
+    ],
+    "2nd": [
+      "RP"
+    ],
+    "3rd": [
+      "RP"
+    ],
+    "4th": [
+      "RP"
+    ],
+    "5th": [
+      "RP"
+    ],
+    "6th": [
+      "RP"
+    ]
+  },
+  "code": "RP",
+  "waivers": []
+}

@@ -1,0 +1,93 @@
+{
+  "league": "Keeper Cup Fantasy Hockey League",
+  "schema_version": "1.0",
+  "generated_from": "index.html",
+  "last_updated": "2026-04-16",
+  "slot_limits": {
+    "forwards": 12,
+    "defence": 6,
+    "goalies": 2,
+    "minor_pro": 6,
+    "prospects": 24,
+    "entry_years": [
+      "2026",
+      "2027"
+    ],
+    "entry_rounds": [
+      "1st",
+      "2nd",
+      "3rd",
+      "4th"
+    ],
+    "minor_pro_rounds": [
+      "1st",
+      "2nd",
+      "3rd",
+      "4th",
+      "5th",
+      "6th"
+    ]
+  },
+  "teams": [
+    {
+      "id": "levi",
+      "name": "Levi",
+      "code": "LH",
+      "file": "levi.json"
+    },
+    {
+      "id": "ryan",
+      "name": "Ryan",
+      "code": "RP",
+      "file": "ryan.json"
+    },
+    {
+      "id": "kenny",
+      "name": "Ken",
+      "code": "KH",
+      "file": "kenny.json"
+    },
+    {
+      "id": "andrew",
+      "name": "Andrew",
+      "code": "AE",
+      "file": "andrew.json"
+    },
+    {
+      "id": "johnny",
+      "name": "Johnny",
+      "code": "JVD",
+      "file": "johnny.json"
+    },
+    {
+      "id": "tyler",
+      "name": "Tyler",
+      "code": "TH",
+      "file": "tyler.json"
+    },
+    {
+      "id": "rudy",
+      "name": "Rudy",
+      "code": "RH",
+      "file": "rudy.json"
+    },
+    {
+      "id": "adam",
+      "name": "Adam",
+      "code": "AB",
+      "file": "adam.json"
+    },
+    {
+      "id": "dylan",
+      "name": "Dylan",
+      "code": "DG",
+      "file": "dylan.json"
+    },
+    {
+      "id": "shawn",
+      "name": "Shawn",
+      "code": "SC",
+      "file": "shawn.json"
+    }
+  ]
+}

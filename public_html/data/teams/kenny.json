@@ -1,0 +1,103 @@
+{
+  "id": "kenny",
+  "name": "Ken",
+  "roster": {
+    "forwards": [
+      "M. Beniers",
+      "D. Larkin",
+      "T. Hertl",
+      "T. Terry",
+      "S. Stamkos",
+      "D. Batherson",
+      "B. Marchand",
+      "W. Eklund",
+      "K. Fiala",
+      "J. Miller",
+      "T. Meier",
+      "T. Wilson"
+    ],
+    "defence": [
+      "S. Edvinsson",
+      "B. Byram",
+      "D. Raddysh",
+      "J. Faulk",
+      "D. Orlov",
+      "K. Miller"
+    ],
+    "goalies": [
+      "J. Swayman",
+      "J. Markstrom"
+    ],
+    "minor_pro": [
+      "S. Halliday",
+      "M. Shabanov",
+      "M. Poitras",
+      "E. Finnie",
+      "B. Bowman",
+      "S. Murashov"
+    ],
+    "prospects": [
+      "R. Mrtka",
+      "T. Luneau",
+      "V. Nestrasil",
+      "R. Greene",
+      "S. Nemec",
+      "P. Andreyanov",
+      "I. Miroshnichenko",
+      "C. Eiserman",
+      "S. Honzek",
+      "B. Lambert",
+      "I. Rosen",
+      "H. Haight",
+      "B. Cootes",
+      "C. Lindstrom",
+      "A. Jiricek",
+      "O. Bonk",
+      "B. Danford",
+      "C. Kyrou",
+      "J. Firkus"
+    ]
+  },
+  "entry_picks": {
+    "2026": {
+      "1st": [
+        "RP",
+        "RH"
+      ],
+      "2nd": [
+        "JVD",
+        "TH"
+      ],
+      "3rd": [],
+      "4th": []
+    },
+    "2027": {
+      "1st": [],
+      "2nd": [
+        "TH"
+      ],
+      "3rd": [],
+      "4th": []
+    }
+  },
+  "minor_pro_picks": {
+    "1st": [],
+    "2nd": [
+      "KH"
+    ],
+    "3rd": [
+      "KH"
+    ],
+    "4th": [
+      "KH"
+    ],
+    "5th": [
+      "KH"
+    ],
+    "6th": [
+      "KH"
+    ]
+  },
+  "code": "KH",
+  "waivers": []
+}
